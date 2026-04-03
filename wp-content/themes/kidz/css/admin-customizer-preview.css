@@ -1,0 +1,47 @@
+
+.home-section > .customize-partial-edit-shortcut button,
+.c-home-tabs > .customize-partial-edit-shortcut button,
+#home-brand > .customize-partial-edit-shortcut button,
+#home-banners > .customize-partial-edit-shortcut button,
+#home-post > .customize-partial-edit-shortcut button,
+#home-review > .customize-partial-edit-shortcut button,
+#home-text > .customize-partial-edit-shortcut button,
+.home-html > .customize-partial-edit-shortcut button,
+.home-shortcode > .customize-partial-edit-shortcut button,
+#home-subscribe > .customize-partial-edit-shortcut button,
+#home-big-banner > .customize-partial-edit-shortcut button,
+#home-top-menu > .customize-partial-edit-shortcut button,
+#footer > .customize-partial-edit-shortcut button,
+.main-menu-container > .customize-partial-edit-shortcut button {
+	top:  2px !important;
+	left: 2px !important;
+}
+
+#home-review > .customize-partial-edit-shortcut,
+#home-brand > .customize-partial-edit-shortcut,
+#home-subscribe > .customize-partial-edit-shortcut,
+#home-big-banner > .customize-partial-edit-shortcut,
+.main-menu-container > .customize-partial-edit-shortcut {
+	left:  0 !important;
+	top:   0 !important;
+	float: none;
+}
+
+.ip_customizer_attention {
+	margin:     30px auto;
+	padding:    20px;
+	font-size:  18px;
+	text-align: center;
+	background: #F4F6F9;
+}
+
+.ip_customizer_attention .dashicons-info {
+	font-size:    30px;
+	color:        #0085ba;
+	display:      inline-block;
+	margin-right: 10px;
+}
+
+.ip_customizer_attention .customizer-edit {
+	background-color: #0085ba;
+}

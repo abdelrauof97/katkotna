@@ -1,0 +1,29 @@
+.ip-widget-attributes-list .wp-color-result {
+	padding-left: 120px !important;
+	position:     relative;
+}
+
+.ip-widget-attributes-list .wp-color-result:before {
+	content:       attr(data-name);
+	display:       block;
+	position:      absolute;
+	left:          0;
+	top:           50%;
+	transform:     translateY(-50%);
+	max-width:     110px;
+	line-height:   1;
+	overflow:      hidden;
+	padding-left:  5px;
+	color:         #444;
+	text-shadow:   1px 1px 0 #FFF;
+	text-overflow: ellipsis;
+}
+
+.ip-widget-attributes-list .button-small {
+	margin-left: 5px;
+}
+
+.ip-widget-attributes-list .wp-picker-open + .wp-picker-input-wrap {
+	display:   inline-flex;
+	flex-wrap: wrap;
+}

@@ -1,0 +1,2011 @@
+# Copyright (C) 2018 ideapark.kz
+# This file is distributed under the GNU General Public License v2.0 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Kidz 2.1\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/kidz\n"
+"POT-Creation-Date: 2020-11-01 17:05:03+00:00\n"
+"PO-Revision-Date: 2021-02-07 17:16+0000\n"
+"Last-Translator: \n"
+"Language-Team: Russian\n"
+"Language: ru_RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<12 || n%100>14) ? 1 : 2);\n"
+"X-Loco-Version: 2.4.4; wp-5.5.3"
+
+#: functions/theme-about/theme-about.php:278
+msgid ""
+"%1$s plugin will allow you to import demo content, and improve the theme's "
+"functionality"
+msgstr ""
+"%1$s плагин позволит вам импортировать демо-контент, а также расширить "
+"функциональность темы"
+
+#. translators: %s: title of menu item which is invalid
+#: functions/megamenu/edit_custom_walker.php:112
+msgid "%s (Invalid)"
+msgstr ""
+
+#. translators: %s: title of menu item in draft status
+#: functions/megamenu/edit_custom_walker.php:116
+msgid "%s (Pending)"
+msgstr ""
+
+#: search.php:17
+msgid "%s result found for <strong>%s</strong>"
+msgid_plural "%s results found for <strong>%s</strong>"
+msgstr[0] "%s результат найден для <strong>%s</strong>"
+msgstr[1] "%s результата найдено для <strong>%s</strong>"
+msgstr[2] "%s результатов найдено для <strong>%s</strong>"
+
+#: functions.php:656
+msgid "&larr;"
+msgstr "←"
+
+#: functions.php:657
+msgid "&rarr;"
+msgstr "→"
+
+#: functions/customize/ip_customize_settings.php:2584
+msgid "- select -"
+msgstr "- выберите -"
+
+#: functions/customize/ip_customize_settings.php:2574
+msgid "- select block -"
+msgstr "- выбрать -"
+
+#: functions/customize/ip_customize_settings.php:1902
+msgid "1 big product per row"
+msgstr "1 большой товар в ряд"
+
+#: functions/megamenu/edit_custom_walker.php:219
+msgid "1 column"
+msgstr "1 колонка"
+
+#: comments.php:18
+msgid "1 Comment"
+msgid_plural "%1$s Comments"
+msgstr[0] "комментарий"
+msgstr[1] "комментария"
+msgstr[2] "комментариев"
+
+#: functions.php:731
+msgctxt "1: date, 2: time"
+msgid "%1$s at %2$s"
+msgstr "%1$s по %2$s"
+
+#: functions/megamenu/edit_custom_walker.php:220
+msgid "2 columns"
+msgstr "2 колонки"
+
+#: functions/customize/ip_customize_settings.php:1903
+msgid "2 products per row"
+msgstr "2 в ряд"
+
+#: functions/megamenu/edit_custom_walker.php:221
+msgid "3 columns"
+msgstr "3 колонки"
+
+#: functions/megamenu/edit_custom_walker.php:222
+msgid "4 columns"
+msgstr "4 колонки"
+
+#: functions/customize/ip_customize_settings.php:383
+msgid "4 Widgets"
+msgstr "4 виджета"
+
+#: 404.php:18
+msgid "404"
+msgstr "404"
+
+#: functions/customize/ip_customize_settings.php:1703
+msgid "`NEW` badge label"
+msgstr "Текст стикера `NEW`"
+
+#: functions/theme-about/theme-about.php:50
+#: functions/theme-about/theme-about.php:51
+msgid "About %s"
+msgstr "О %s"
+
+#: functions/customize/ip_customize_settings.php:1574
+msgid "Accent Color"
+msgstr "Цветовой Акцент"
+
+#: functions/customize/ip_customize_settings.php:1596
+#: functions/customize/ip_customize_settings.php:1604
+msgid "Accent is used if nothing is specified"
+msgstr "Используется акцентный цвет, если ничего не выбрано"
+
+#: functions/theme-about/theme-about.php:169
+#: functions/theme-about/theme-about.php:175
+msgid "Activate"
+msgstr "Активация"
+
+#: functions/theme-about/theme-about.php:155
+msgid "Activate %s"
+msgstr "Активация %s"
+
+#: functions/customize/ip_customize_settings.php:2578
+#: functions/customize/ip_customize_settings.php:2600
+msgid "Add"
+msgstr "Добавить"
+
+#: functions/customize/ip_customize_settings.php:1036
+msgid "Add bottom padding"
+msgstr "Добавить отступ снизу"
+
+#: functions/customize/ip_customize_settings.php:2582
+msgid "Add new"
+msgstr "Добавить"
+
+#: functions/customize/ip_customize_settings.php:2572
+msgid "Add new block"
+msgstr "Добавить новый блок"
+
+#: functions/customize/ip_customize_settings.php:941
+msgid ""
+"Add or delete tab, and then drag and drop tabs below to set up their order. "
+"You can also enable or disable any tab"
+msgstr ""
+"Добавьте или удалите вкладку, а затем перетащите вкладки ниже, чтобы "
+"настроить их порядок. Вы также можете включить или отключить любую вкладку"
+
+#: functions/customize/ip_customize_settings.php:440
+msgid ""
+"Add the full url of your social media page e.g http://twitter.com/yoursite"
+msgstr ""
+"Укажите полные ссылки на ваши социальные страницы в таком виде: http:"
+"//twitter.com/yoursite"
+
+#: functions/customize/ip_customize_settings.php:1238
+#: functions/customize/ip_customize_settings.php:1289
+#: functions/customize/ip_customize_settings.php:1339
+msgid "Add top and bottom paddings"
+msgstr "Добавить верхний и нижний отступы"
+
+#: functions/customize/ip_customize_settings.php:1029
+msgid "Add top padding"
+msgstr "Добавить отступ сверху"
+
+#: functions/theme-about/theme-about.php:292
+msgid "Additional plugins"
+msgstr "Дополнительные плагины"
+
+#: functions/customize/ip_customize_settings.php:1493
+#: page-templates/contact.php:44
+msgid "Address"
+msgstr "Адрес"
+
+#: functions/customize/ip_customize_settings.php:3231
+msgid "All"
+msgstr "Все"
+
+#: functions/theme-about/theme-about.php:300
+msgid "All additional plugins are installed."
+msgstr "Все дополнительные плагины установлены."
+
+#: functions/theme-about/theme-about.php:266
+msgid "All required plugins have been successfully installed."
+msgstr "Все необходимые плагины были успешно установлены."
+
+#: functions/customize/ip_customize_settings.php:1205
+msgid ""
+"Also you can paste shortcode, generated with any  plugin (for example, "
+"Contacts Form 7)"
+msgstr ""
+"Вы можете вставить сюда шорткод, созданный каким-либо плагином (например "
+"Contact Form 7)"
+
+#: single-attachment.php:39
+msgid "Alt Text"
+msgstr "Alt-текст"
+
+#: index.php:21
+msgid "Archives"
+msgstr "Архивы"
+
+#: functions/customize/ip_customize_settings.php:119
+msgid "Arrows Prev & Next"
+msgstr "Стрелки слайдера"
+
+#: functions/customize/ip_customize_settings.php:1630
+msgid "At the bottom of the screen (fixed)"
+msgstr "Внизу экрана (fixed)"
+
+#: functions/customize/ip_customize_settings.php:1629
+msgid "At the top of the page"
+msgstr "Вверху страницы"
+
+#: functions/customize/ip_customize_settings.php:676
+msgid "Autoplay interval (ms)"
+msgstr "Интервал автозапуска (мс)"
+
+#. Description of the plugin/theme
+msgid "Baby Shop & Kids Store WordPress WooCommerce Theme"
+msgstr ""
+
+#: header.php:101
+msgid "Back"
+msgstr "Назад"
+
+#: functions/customize/ip_customize_settings.php:1061
+#: functions/customize/ip_customize_settings.php:1098
+#: functions/customize/ip_customize_settings.php:1129
+#: functions/customize/ip_customize_settings.php:1153
+#: functions/customize/ip_customize_settings.php:1225
+#: functions/customize/ip_customize_settings.php:1276
+#: functions/customize/ip_customize_settings.php:1326
+msgid "Background Color"
+msgstr "Цвет Фона"
+
+#: functions/customize/ip_customize_settings.php:429
+#: functions/customize/ip_customize_settings.php:447
+#: functions/customize/ip_customize_settings.php:840
+#: functions/customize/ip_customize_settings.php:1022
+msgid "Background color"
+msgstr "Цвет фона"
+
+#: functions/customize/ip_customize_settings.php:584
+msgid "Banner block (3/4 per row)"
+msgstr "Блок баннеров (3/4 в ряду)"
+
+#: functions/customize/ip_customize_settings.php:702
+msgid "Banners (3/4 per row)"
+msgstr "Баннеры (3/4 в ряду)"
+
+#: functions/customize/ip_customize_settings.php:1588
+msgid "Base Color"
+msgstr "Основной цвет"
+
+#: functions/customize/ip_customize_settings.php:1751
+msgid "Below the main image"
+msgstr "Под основным фото"
+
+#: functions/customize/ip_customize_settings.php:3290
+msgid "Best-Selling Products"
+msgstr "Бестселлеры"
+
+#: functions/customize/ip_customize_settings.php:1002
+msgid "Best-Selling products tab header"
+msgstr "Заголовок бестселлеров"
+
+#: functions/customize/ip_customize_settings.php:1003
+msgid "Bestsellers"
+msgstr "Бестселлеры"
+
+#: functions/customize/ip_customize_settings.php:585
+#: functions/customize/ip_customize_settings.php:730
+msgid "Big banner"
+msgstr "Большой баннер"
+
+#: functions/customize/ip_customize_settings.php:588
+#: functions/customize/ip_customize_settings.php:1070
+#: functions/customize/ip_customize_settings.php:1086
+msgid "Blog Posts"
+msgstr "Посты блога"
+
+#: functions/customize/ip_customize_settings.php:807
+msgid "Bottom"
+msgstr "Низ"
+
+#: functions/customize/ip_customize_settings.php:85
+msgid "Boxed"
+msgstr "Фиксированная ширина"
+
+#: functions/customize/ip_customize_settings.php:847
+msgid "Boxed view"
+msgstr "Вид с фиксированной шириной"
+
+#: functions/customize/ip_customize_settings.php:86
+msgid "Boxed with White Background"
+msgstr "Фиксированная ширина с белым фоном"
+
+#: functions/customize/ip_customize_settings.php:587
+#: functions/customize/ip_customize_settings.php:1045
+msgid "Brands"
+msgstr "Бренды"
+
+#: functions/customize/ip_customize_settings.php:834
+msgid "Button color"
+msgstr "Цвет кнопки"
+
+#: functions/customize/ip_customize_settings.php:759
+msgid "Button text"
+msgstr "Текст кнопки"
+
+#: functions/megamenu/edit_custom_walker.php:280
+msgid "Cancel"
+msgstr "Отмена"
+
+#: single-attachment.php:34
+msgid "Caption"
+msgstr "Заголовок"
+
+#: functions/customize/ip_customize_settings.php:914
+msgid "Carousel"
+msgstr "Карусель"
+
+#: functions/customize/ip_customize_settings.php:3294
+msgid "Categories"
+msgstr "Категории"
+
+#: functions/customize/ip_customize_settings.php:772
+#: functions/customize/ip_customize_settings.php:795
+#: functions/customize/ip_customize_settings.php:806
+msgid "Center"
+msgstr "По центру"
+
+#: functions/megamenu/edit_custom_walker.php:236
+msgid "Change Icon"
+msgstr "Сменить иконку"
+
+#: functions/megamenu/mega-menu.php:129
+msgid "Choose an image"
+msgstr "Выберите изображение"
+
+#: functions/megamenu/edit_custom_walker.php:242
+#: functions/megamenu/mega-menu.php:106
+#: functions/woocommerce/woocommerce-tax-extra-fields.php:72
+#: functions/woocommerce/woocommerce-tax-extra-fields.php:105
+msgid "clear icon"
+msgstr "очистить иконку"
+
+#: functions/theme-about/theme-about.php:326
+msgid "Clear theme cache"
+msgstr "Очистить кэш темы"
+
+#: functions/customize/ip_customize_settings.php:332
+msgid "Clickable phone number in top menu text"
+msgstr "Кликабельный номер телефона в текстовом поле"
+
+#: woocommerce/single-product.php:83
+msgid "Close (Esc)"
+msgstr "Закрыть (Esc)"
+
+#. Template Name of the plugin/theme
+msgid "Contact"
+msgstr "Контакты"
+
+#: functions.php:221
+msgid "Contact Form 7"
+msgstr "Contact Form 7"
+
+#: functions/customize/ip_customize_settings.php:1471
+msgid "Contact Page Settings"
+msgstr "Параметры контактной страницы"
+
+#: functions/customize/ip_customize_settings.php:400
+msgid "Contacts"
+msgstr "Контакты"
+
+#: functions/customize/ip_customize_settings.php:1204
+#: functions/customize/ip_customize_settings.php:1215
+msgid "Content"
+msgstr "Контент"
+
+#: functions/customize/ip_customize_settings.php:1351
+msgid "Content font (Google Font)"
+msgstr "Шрифт контента (Google Font)"
+
+#: functions/customize/ip_customize_settings.php:1193
+msgid "Content Source"
+msgstr "Источник контента"
+
+#: functions/theme-about/theme-about.php:261
+#: functions/theme-about/theme-about.php:297
+msgid "Continue"
+msgstr "Продолжить"
+
+#: content.php:10
+msgid "Continue Reading"
+msgstr "Продолжить чтение"
+
+#: functions/customize/ip_customize_settings.php:413
+msgid "Copyright"
+msgstr "Копирайт"
+
+#: woocommerce/checkout/form-billing.php:63
+msgid ""
+"Create an account by entering the information below. If you are a returning "
+"customer please login at the top of the page."
+msgstr ""
+"Создать учетную запись, введя следующие данные. Если у вас уже есть учетная "
+"запись, пожалуйста, войдите в верхней части страницы."
+
+#: functions/megamenu/edit_custom_walker.php:195
+msgid "CSS Classes (optional)"
+msgstr "CSS класс (опционально)"
+
+#: functions/customize/ip_customize_settings.php:3292
+msgid "Custom"
+msgstr "Кастом"
+
+#: functions/megamenu/mega-menu.php:92
+msgid "Custom image"
+msgstr "Другая иконка"
+
+#: functions/customize/ip_customize_settings.php:545
+msgid "Custom Social Icon"
+msgstr "Кастомная иконка соцсети"
+
+#: functions/theme-about/theme-about.php:322
+msgid "Customize"
+msgstr "Настроить"
+
+#: single-attachment.php:43
+msgid "Date Added"
+msgstr "Дата добавлена"
+
+#: functions/customize/ip_customize_settings.php:382
+msgid "Default (Contact block + 3 Widgets)"
+msgstr "По умолчанию (блок контактов + 3 виджета)"
+
+#: functions/customize/ip_customize_settings.php:145
+#: functions/customize/ip_customize_settings.php:302
+#: functions/customize/ip_customize_settings.php:422
+#: functions/customize/ip_customize_settings.php:430
+msgid "Default color if empty"
+msgstr "Цвет по умолчанию, если не заполнено"
+
+#: functions/customize/ip_customize_settings.php:1361
+msgid "Default font: Fredoka One"
+msgstr "Шрифт по умолчанию: Fredoka One"
+
+#: functions/customize/ip_customize_settings.php:1387
+msgid "Default font: Montserrat"
+msgstr "Шрифт по умолчанию: Montserrat"
+
+#: functions/customize/ip_customize_settings.php:1353
+msgid "Default font: Open Sans"
+msgstr "Шрифт по умолчанию: Open Sans"
+
+#: functions/customize/ip_customize_settings.php:1369
+msgid "Default: 400"
+msgstr "По умолчанию: 400"
+
+#: functions/customize/ip_customize_settings.php:1395
+msgid "Default: Latin Extended"
+msgstr "По умолчанию: Latin Extended"
+
+#: functions/megamenu/edit_custom_walker.php:207 single-attachment.php:29
+msgid "Description"
+msgstr "Описание"
+
+#: single-attachment.php:46
+msgid "Dimensions"
+msgstr "Размеры"
+
+#: functions/customize/ip_customize_settings.php:1556
+msgid "Disable WooCommerce block styles"
+msgstr "Отклбчить стили Woocommerce block"
+
+#: functions/customize/ip_customize_settings.php:1839
+msgid "Display form fields on the Checkout page in two columns"
+msgstr "Отображать поля формы в две колонки на странице Checkout"
+
+#: functions/customize/ip_customize_settings.php:1695
+msgid ""
+"Display the`NEW` badge for how many days? Set 0 for disable `NEW` badge."
+msgstr ""
+"Сколько дней с момента публикации товар помечать стикером `NEW`. Введите `0` "
+"для отключения стикера."
+
+#: functions/megamenu/edit_custom_walker.php:257
+msgid "Down one"
+msgstr "На один вниз"
+
+#: functions/customize/ip_customize_settings.php:579
+msgid ""
+"Drag and drop sections below to set up their order on the Front Page. You "
+"can also enable or disable any section."
+msgstr ""
+"Перетаскивайте разделы, чтобы настроить их порядок на главной странице. Вы "
+"также можете включить или отключить любой раздел."
+
+#: functions/customize/ip_customize_settings.php:534
+msgid "Dribbble url"
+msgstr "Dribbble"
+
+#: functions/megamenu/edit_custom_walker.php:161 functions.php:742
+msgid "Edit"
+msgstr "Редактировать"
+
+#: functions/megamenu/edit_custom_walker.php:161
+msgid "Edit menu item"
+msgstr "Редактировать пункт меню"
+
+#: functions/customize/ip_customize_settings.php:657
+msgid "Effect"
+msgstr "Эффект"
+
+#: functions/customize/ip_customize_settings.php:1484
+#: page-templates/contact.php:38
+msgid "Email"
+msgstr "Электронной почты"
+
+#: functions.php:1299
+msgid "Enable"
+msgstr "Включить"
+
+#: functions/customize/ip_customize_settings.php:569
+msgid "Enable Front Page builder"
+msgstr "Включить конструктор главной страницы"
+
+#: functions/customize/ip_customize_settings.php:1679
+msgid ""
+"Enable or disable buttons, and then drag and drop buttons below to set up "
+"their order"
+msgstr "Включение / отключение / сортировка перетаскиванием"
+
+#: functions/customize/ip_customize_settings.php:1657
+msgid ""
+"Enable or disable tab, and then drag and drop tabs below to set up their "
+"order"
+msgstr ""
+"Включите или отключите вкладку, а затем перетащите вкладки ниже, чтобы "
+"настроить их порядок"
+
+#: functions/customize/ip_customize_settings.php:293
+msgid "Enable top menu"
+msgstr "Включить верхнее меню"
+
+#: functions/customize/ip_customize_settings.php:650
+msgid ""
+"Enter shortcode, if you want to use a third-party slider instead of the "
+"theme slider"
+msgstr ""
+"Введите шорткод, если вы хотите использовать сторонний слайдер вместо "
+"обычного слайдер"
+
+#: functions.php:213
+msgid "Envato Market"
+msgstr "Envato Market"
+
+#: functions/theme-about/theme-about.php:315
+msgid ""
+"Explore the <a href=\"%s\" target=\"_blank\">documentation</a> and then "
+"start customizing the theme"
+msgstr ""
+"Прочитайте <a href=\"%s\" target=\"_blank\">докумментацию</a> и после этого "
+"приступайте к настройке темы"
+
+#: functions/customize/ip_customize_settings.php:3237
+msgid "Extended"
+msgstr "Расширенный"
+
+#: functions/customize/ip_customize_settings.php:461
+msgid "Facebook url"
+msgstr "Facebook"
+
+#: functions/customize/ip_customize_settings.php:662
+msgid "Fade"
+msgstr "Проявление"
+
+#: functions/customize/ip_customize_settings.php:983
+msgid "Featured"
+msgstr "Рекомендуем"
+
+#: functions/customize/ip_customize_settings.php:3288
+msgid "Featured Products"
+msgstr "Рекомендуемые товары"
+
+#: functions/customize/ip_customize_settings.php:982
+msgid "Featured products tab header"
+msgstr "Заголовок рекомендуемых товаров"
+
+#: functions/customize/ip_customize_settings.php:818
+msgid "Fill banner area"
+msgstr "Заполнить площадь баннера"
+
+#: functions/customize/ip_customize_settings.php:1910
+msgid "Filter"
+msgstr "Фильтр"
+
+#: functions/customize/ip_customize_settings.php:1909
+msgid "Filter button text"
+msgstr "Текст для кнопки \"Фильтр\""
+
+#: functions/customize/ip_customize_settings.php:817
+msgid "Fit to banner area"
+msgstr "Вместить в площадь баннера"
+
+#: functions/customize/ip_customize_settings.php:722
+msgid "Fixed"
+msgstr "Фиксированный"
+
+#: functions/customize/ip_customize_settings.php:281
+msgid "Fixed menu item width by default"
+msgstr "По умолчанию фиксированный"
+
+#: functions/customize/ip_customize_settings.php:519
+msgid "Flickr url"
+msgstr "Flickr"
+
+#: functions/customize/ip_customize_settings.php:1367
+msgid "Font 1 Weight"
+msgstr "Толщина шрифта 1"
+
+#: functions/customize/ip_customize_settings.php:1347
+msgid "Fonts"
+msgstr "Шрифты"
+
+#: functions.php:458
+msgid "Footer"
+msgstr "Подвал"
+
+#: functions/customize/ip_customize_settings.php:376
+msgid "Footer layout"
+msgstr "Дизайн подвала"
+
+#: functions/customize/ip_customize_settings.php:368
+msgid "Footer Settings"
+msgstr "Параметры подвала"
+
+#: functions/customize/ip_customize_settings.php:922
+msgid "For category tabs only"
+msgstr "Только для вкладок товаров из категории"
+
+#: functions/customize/ip_customize_settings.php:930
+msgid "For category tabs with carousel only"
+msgstr "Только для вкладок категорий с каруселью"
+
+#: functions/customize/ip_customize_settings.php:953
+msgid "For tab with woocommerce shortcode"
+msgstr "Для таба с  шоткодом Woocommerce "
+
+#: functions.php:660
+msgid "from"
+msgstr "от"
+
+#: functions/customize/ip_customize_settings.php:17
+msgid "Front Page Builder"
+msgstr "Конструктор главной страницы"
+
+#. Template Name of the plugin/theme
+msgid "Full Width"
+msgstr "Полная ширина"
+
+#: functions/customize/ip_customize_settings.php:84
+msgid "Fullscreen"
+msgstr "Полноэкранный"
+
+#: functions/customize/ip_customize_settings.php:95
+msgid "Fullscreen (ajax)"
+msgstr "Полноэкранный (Аякс)"
+
+#: functions/customize/ip_customize_settings.php:641
+msgid "Fullwidth"
+msgstr "Полноширинный"
+
+#: functions/customize/ip_customize_settings.php:564
+#: functions/customize/ip_customize_settings.php:632
+#: functions/customize/ip_customize_settings.php:709
+#: functions/customize/ip_customize_settings.php:739
+#: functions/customize/ip_customize_settings.php:865
+#: functions/customize/ip_customize_settings.php:1053
+#: functions/customize/ip_customize_settings.php:1077
+#: functions/customize/ip_customize_settings.php:1121
+#: functions/customize/ip_customize_settings.php:1145
+#: functions/customize/ip_customize_settings.php:1177
+#: functions/customize/ip_customize_settings.php:1255
+#: functions/customize/ip_customize_settings.php:1305
+msgid "General settings"
+msgstr "Основные настройки"
+
+#: functions/customize/ip_customize_settings.php:75
+msgid "General Theme Settings"
+msgstr "Основные настройки темы"
+
+#: functions/customize/ip_customize_settings.php:539
+msgid "Github url"
+msgstr "GitHub"
+
+#: functions/customize/ip_customize_settings.php:747
+#: functions/customize/ip_customize_settings.php:1185
+#: functions/customize/ip_customize_settings.php:1263
+#: functions/customize/ip_customize_settings.php:1313
+msgid "Header"
+msgstr "Заголовок"
+
+#: functions/customize/ip_customize_settings.php:156
+msgid "Header / Menu Settings"
+msgstr "Шапка / Меню"
+
+#: functions/customize/ip_customize_settings.php:161
+msgid "Header Settings"
+msgstr "Настройки шапки"
+
+#: functions/customize/ip_customize_settings.php:166
+msgid "Header type"
+msgstr "Тип шапки"
+
+#: functions/customize/ip_customize_settings.php:206
+msgid "here"
+msgstr "здесь"
+
+#: functions/customize/ip_customize_settings.php:1752
+msgid "Hide"
+msgstr "Скрыть"
+
+#: functions/customize/ip_customize_settings.php:1450
+msgid "Hide Author Info"
+msgstr "Скрыть информацию об авторе"
+
+#: functions/customize/ip_customize_settings.php:66
+msgid "Hide background on inner pages"
+msgstr "Скрыть фон на внутренних страницах"
+
+#: functions/customize/ip_customize_settings.php:1420
+msgid "Hide Category"
+msgstr "Скрыть категорию"
+
+#: functions/customize/ip_customize_settings.php:1444
+msgid "Hide Comment Link"
+msgstr "Скрыть ссылку на комментарий"
+
+#: functions/customize/ip_customize_settings.php:1426
+msgid "Hide Date"
+msgstr "Скрыть дату"
+
+#: functions/customize/ip_customize_settings.php:1414
+msgid "Hide Featured Image"
+msgstr "Скрыть рекомендуемые изображения"
+
+#: functions/customize/ip_customize_settings.php:1159
+msgid "Hide Header"
+msgstr "Скрыть заголовок"
+
+#: functions/customize/ip_customize_settings.php:685
+msgid "Hide navigation arrows"
+msgstr "Скрыть навигационные стрелки"
+
+#: functions/customize/ip_customize_settings.php:692
+msgid "Hide navigation dots"
+msgstr "Скрытие навигационные точки"
+
+#: functions/customize/ip_customize_settings.php:1456
+msgid "Hide Post Navigation"
+msgstr "Скрыть навигацию статьи"
+
+#: functions/customize/ip_customize_settings.php:1846
+msgid "Hide price range in the variable product"
+msgstr "Скрыть верхнюю цену в вариативном продукте"
+
+#: functions/customize/ip_customize_settings.php:1462
+msgid "Hide Related Posts"
+msgstr "Скрыть похожие статьи"
+
+#: functions/customize/ip_customize_settings.php:1432
+msgid "Hide Share Buttons"
+msgstr "Скрыть кнопки \"поделиться\""
+
+#: functions/customize/ip_customize_settings.php:1408
+msgid "Hide Sidebar"
+msgstr "Скрыть боковую панель"
+
+#: functions/customize/ip_customize_settings.php:1775
+msgid "Hide sidebar on product list"
+msgstr "Скрыть боковую панель в товарном каталоге"
+
+#: functions/customize/ip_customize_settings.php:1782
+msgid "Hide sidebar on product pages"
+msgstr "Скрыть боковую панель на страницах товара"
+
+#: functions/customize/ip_customize_settings.php:1438
+msgid "Hide Tags"
+msgstr "Скрыть теги"
+
+#: functions/customize/ip_customize_settings.php:1768
+msgid "Hide Uncategorized category"
+msgstr "Скрыть категорию Uncategorized"
+
+#: functions/customize/ip_customize_settings.php:1860
+msgid "Hide zoom on mobile (product page)"
+msgstr "Скрыть зум на мобильном"
+
+#: functions/customize/ip_customize_settings.php:1727
+msgid "Hide zoom on mobile (quick view)"
+msgstr "Скрыть зум на мобильном"
+
+#: functions.php:1021
+msgid "Home"
+msgstr ""
+
+#: functions/customize/ip_customize_settings.php:590
+#: functions/customize/ip_customize_settings.php:1138
+msgid "Home page content"
+msgstr "Контент главной страницы"
+
+#: functions/customize/ip_customize_settings.php:591
+#: functions/customize/ip_customize_settings.php:1169
+msgid "HTML block"
+msgstr "HTML блок"
+
+#. Author URI of the plugin/theme
+msgid "https://parkofideas.com"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "https://parkofideas.com/kidz/"
+msgstr ""
+
+#: functions/customize/ip_customize_settings.php:550
+msgid "Icon"
+msgstr "Иконка"
+
+#: functions/customize/ip_customize_settings.php:454
+msgid "Icon color"
+msgstr "Цвет иконки"
+
+#: functions/customize/ip_customize_settings.php:361
+msgid "Icons only"
+msgstr "Только значки"
+
+#: functions/customize/ip_customize_settings.php:244
+msgid "Icons with text"
+msgstr "Иконки с текстом"
+
+#: functions/customize/ip_customize_settings.php:778
+msgid "If button text empty whole banner areal would be the link"
+msgstr "Если текст кнопки пустой, то площадь всего баннера будет ссылкой"
+
+#: functions/customize/ip_customize_settings.php:570
+msgid "If Front Page Builder is off - native page content will be shown"
+msgstr ""
+"Если конструктор главной страницы выключен - отобразится обычный контент "
+"страницы"
+
+#: functions/customize/ip_customize_settings.php:1194
+#: functions/customize/ip_customize_settings.php:1745
+msgid "If you need thumbnails in the mobile version select the second one"
+msgstr ""
+"Если вам нужны превью товаров в галерее в мобильной версии, выберите второй "
+"вариант"
+
+#: functions/customize/ip_customize_settings.php:784
+msgid "Image"
+msgstr "Изображение"
+
+#: functions/customize/ip_customize_settings.php:789
+msgid "Image position X"
+msgstr "Позиция изображение по X"
+
+#: functions/customize/ip_customize_settings.php:800
+msgid "Image position Y"
+msgstr "Позиция изображение по Y"
+
+#: functions/customize/ip_customize_settings.php:811
+msgid "Image size"
+msgstr "Размер изображения"
+
+#: functions/customize/ip_customize_settings.php:1717
+msgid "Images zoom on touch or mouseover in Quick view"
+msgstr "Зум изображений в окне быстрого просмотра"
+
+#: functions/customize/ip_customize_settings.php:1853
+msgid "Images zoom on touch or mouseover on product page"
+msgstr "Зум изображений в карточке товара"
+
+#: functions/theme-about/theme-about.php:306
+msgid "Import Demo"
+msgstr "Импорт демо"
+
+#: functions/theme-about/theme-about.php:311
+msgid "Import demo"
+msgstr "Импорт демо"
+
+#: content-list.php:23
+msgid "In"
+msgstr "В"
+
+#: functions/theme-about/theme-about.php:248
+msgid ""
+"In order to continue, please install and activate or update required plugins:"
+"<br><b>%1$s</b>"
+msgstr ""
+"Для того чтобы продолжить, пожалуйста, установите и активируйте или обновите "
+"необходимые плагины:<br><b>%1$s</b>"
+
+#: functions.php:355 functions.php:1068
+msgid "In stock"
+msgstr "В наличии"
+
+#: functions/customize/ip_customize_settings.php:467
+msgid "Instagram url"
+msgstr "Instagram"
+
+#: functions/theme-about/theme-about.php:169
+msgid "Install"
+msgstr "Инсталляция"
+
+#: functions/theme-about/theme-about.php:155
+msgid "Install %s"
+msgstr "Установка %s"
+
+#: functions/theme-about/theme-about.php:175
+msgid "Install and activate"
+msgstr "Установка и активация"
+
+#: functions/customize/ip_customize_settings.php:1804
+msgid "Keep product navigation within the same category."
+msgstr "Оставить навигацию по товарам из той же категории."
+
+#. Theme Name of the plugin/theme
+msgid "Kidz"
+msgstr "Kidz"
+
+#: functions/customize/ip_customize_settings.php:1637
+msgid "Kidz Settings"
+msgstr "Настройки Kidz"
+
+#: functions.php:191
+msgid "Kidz Theme Functionality"
+msgstr "Функционал темы Kidz"
+
+#: functions.php:199
+msgid "Kidz Theme Wishlist"
+msgstr "Список желаний темы Kidz"
+
+#: functions.php:883 functions.php:893
+msgctxt "label"
+msgid "Search for:"
+msgstr "Искать:"
+
+#: functions/customize/ip_customize_settings.php:1013
+msgid "Latest"
+msgstr "Новинки"
+
+#: functions/customize/ip_customize_settings.php:79
+msgid "Layout"
+msgstr "Макет"
+
+#: functions/customize/ip_customize_settings.php:1550
+msgid "Lazy load images"
+msgstr "Ленивая загрузка изображений (lazyload)"
+
+#: functions/customize/ip_customize_settings.php:841
+#: functions/customize/ip_customize_settings.php:1226
+#: functions/customize/ip_customize_settings.php:1277
+#: functions/customize/ip_customize_settings.php:1327
+msgid "Leave empty for transparent background"
+msgstr "Оставьте пустым для прозрачного фона"
+
+#: functions/customize/ip_customize_settings.php:771
+#: functions/customize/ip_customize_settings.php:794
+msgid "Left"
+msgstr "Слева"
+
+#: functions/customize/ip_customize_settings.php:1750
+msgid "Left of the main image"
+msgstr "Слева от основного фото"
+
+#: functions/customize/ip_customize_settings.php:777
+msgid "Link"
+msgstr "Ссылка"
+
+#: functions/megamenu/edit_custom_walker.php:201
+msgid "Link Relationship (XFN)"
+msgstr ""
+
+#: functions/customize/ip_customize_settings.php:514
+msgid "LinkedIn url"
+msgstr "LinkedIn"
+
+#: functions/customize/ip_customize_settings.php:1531
+msgid "Load all theme css files combined and minified into a single file"
+msgstr "Объединить и сжать все CSS файлы"
+
+#: functions/customize/ip_customize_settings.php:1538
+msgid "Load all theme js files combined and minified into a single file"
+msgstr "Объединить и сжать все JS файлы"
+
+#: functions/customize/ip_customize_settings.php:1544
+msgid "Load jQuery in footer"
+msgstr "Загрузить jQuery в футере"
+
+#: woocommerce/myaccount/my-account.php:22
+msgid "Logged in as %s%s%s"
+msgstr "Вошли как %s%s%s"
+
+#: functions.php:936
+msgid "Login"
+msgstr "Логин"
+
+#: functions/customize/ip_customize_settings.php:49
+msgid "Logo zoom"
+msgstr "Размер лого"
+
+#: woocommerce/myaccount/my-account.php:26
+msgid "Logout"
+msgstr "Выход"
+
+#: functions.php:227
+msgid "MailChimp for WP"
+msgstr "MailChimp for WP"
+
+#: functions/customize/ip_customize_settings.php:3287
+msgid "Main"
+msgstr "Главный"
+
+#: functions/customize/ip_customize_settings.php:1359
+msgid "Main Font 1 (Google Font)"
+msgstr "Основной Шрифт 1 (Google Шрифты)"
+
+#: functions/customize/ip_customize_settings.php:1385
+msgid "Main Font 2 (Google Font)"
+msgstr "Основной Шрифт 2 (Google Шрифты)"
+
+#: functions/customize/ip_customize_settings.php:1393
+msgid "Main Fonts subset (if available)"
+msgstr "Подмножество основного шрифта (если имеется)"
+
+#: functions/customize/ip_customize_settings.php:1643
+msgid "Main image fit on product page"
+msgstr "Кадрирование изображения в карточке товара"
+
+#: functions/customize/ip_customize_settings.php:220
+msgid "Main Menu Settings"
+msgstr "Настройки основного меню"
+
+#: functions/customize/ip_customize_settings.php:225
+msgid "Main menu type"
+msgstr "Тип основного меню"
+
+#: functions/customize/ip_customize_settings.php:239
+msgid "Main menu view"
+msgstr "Вид основного меню"
+
+#: functions/customize/ip_customize_settings.php:1512
+msgid "Map code"
+msgstr "Код карты"
+
+#: functions.php:464
+msgid "Maximum 3 widgets"
+msgstr "Максимум 3 виджета"
+
+#: functions/customize/ip_customize_settings.php:229
+msgid "Mega Menu"
+msgstr "Мега меню"
+
+#: functions.php:95
+msgid "Mega Menu (Primary)"
+msgstr "Мега меню (основное)"
+
+#: functions/customize/ip_customize_settings.php:267
+msgid "Menu item font-size"
+msgstr "Размер шрифта пункта меню"
+
+#: functions/customize/ip_customize_settings.php:253
+msgid "Menu item width"
+msgstr "Ширина пункта меню"
+
+#: functions/customize/ip_customize_settings.php:125
+msgid "Minimal"
+msgstr "Минималистичный"
+
+#: functions/customize/ip_customize_settings.php:384
+msgid "Minimal (Copyright and Social icons)"
+msgstr "Минимально (Копирайты и иконки соц. сетей)"
+
+#: functions/customize/ip_customize_settings.php:1891
+msgid "Mobile Settings"
+msgstr "Мобильные настройки"
+
+#: functions/megamenu/edit_custom_walker.php:255
+msgid "Move"
+msgstr "Переместить"
+
+#: functions/megamenu/edit_custom_walker.php:157
+msgid "Move down"
+msgstr "Переместить Вниз"
+
+#: functions/megamenu/edit_custom_walker.php:144
+msgid "Move up"
+msgstr "Переместить Вверх"
+
+#: functions.php:936
+msgid "My Account"
+msgstr "Мой аккаунт"
+
+#: functions/megamenu/edit_custom_walker.php:177
+msgid "Navigation Label"
+msgstr "Навигационная Метка"
+
+#: functions/customize/ip_customize_settings.php:1705
+msgid "New"
+msgstr "Новый"
+
+#: functions/customize/ip_customize_settings.php:1611
+msgid "New badge Color"
+msgstr "Цвет значка \"Новинка\""
+
+#: comments.php:40
+msgid "Newer Comments"
+msgstr "Новые комментарии"
+
+#: woocommerce/single-product.php:106
+msgid "Next (arrow right)"
+msgstr "Следующие (стрелка вправо)"
+
+#: functions.php:703
+msgid "Next Post"
+msgstr "Следующая статья"
+
+#: functions.php:613
+msgid "No results found"
+msgstr "Результатов не найдено"
+
+#: search.php:19
+msgid "No search results for <strong>%s</strong>"
+msgstr "Нет результатов поиска для <strong>%s</strong>"
+
+#: functions/customize/ip_customize_settings.php:124
+msgid "Normal"
+msgstr "Обычный"
+
+#: functions/customize/ip_customize_settings.php:479
+msgid "OK url"
+msgstr "ОК"
+
+#: comments.php:39
+msgid "Older Comments"
+msgstr "Старые комментарии"
+
+#: functions/customize/ip_customize_settings.php:993
+msgid "On a Sale"
+msgstr "Скидка"
+
+#: functions/customize/ip_customize_settings.php:50
+msgid "Only for center logo layout"
+msgstr "Только для шапки с логотипом по центру"
+
+#: functions/customize/ip_customize_settings.php:254
+msgid "Only for center logo layout with menu icons"
+msgstr "Только для шапки с лого по центру и меню с иконки"
+
+#: functions/customize/ip_customize_settings.php:401
+msgid "Only in Widgets Footer Design"
+msgstr "Только для виджетов подвала"
+
+#: functions/customize/ip_customize_settings.php:245
+msgid "Only text"
+msgstr "Только текст"
+
+#: functions/customize/ip_customize_settings.php:1758
+msgid "Only with `Below the main image` layout."
+msgstr "Только если выбран \"Под основным фото\""
+
+#: functions/megamenu/edit_custom_walker.php:190
+msgid "Open link in a new tab"
+msgstr "Открыть ссылку в новой вкладке"
+
+#: functions/customize/ip_customize_settings.php:900
+msgid "Order"
+msgstr "Сортировать"
+
+#: functions/customize/ip_customize_settings.php:883
+msgid "Order by"
+msgstr "Сортировать по "
+
+#: functions/customize/ip_customize_settings.php:816
+msgid "Original"
+msgstr "Оригинальное"
+
+#: functions/megamenu/edit_custom_walker.php:266
+msgid "Original: %s"
+msgstr "Оригинал: %s"
+
+#: functions.php:660
+msgid "Page"
+msgstr "Страница"
+
+#: 404.php:8
+msgid "Page not found"
+msgstr "Страница не найдена"
+
+#: content.php:14
+msgid "Pages:"
+msgstr "Страницы:"
+
+#: functions/customize/ip_customize_settings.php:822
+msgid "Parallax"
+msgstr "Параллакс"
+
+#. Author of the plugin/theme
+msgid "parkofideas.com"
+msgstr ""
+
+#: functions/customize/ip_customize_settings.php:1513
+msgid "Paste embed html code or shortcode, generated with any map plugin"
+msgstr ""
+"Вставьте сюда HTML-код или короткий код, созданный с помощью любого плагина "
+"карт"
+
+#: functions/customize/ip_customize_settings.php:1270
+msgid ""
+"Paste shortcode, generated with any  plugin (for example, Contacts Form 7)"
+msgstr ""
+"Вставьте сюда шорткод, созданный каким-либо плагином (например Contact Form "
+"7)"
+
+#: functions/customize/ip_customize_settings.php:1503
+msgid ""
+"Paste shortcode, generated with any form plugin (for example, Contacts Form "
+"7). You can also paste any other shortcodes, changing thus the purpose of "
+"this section"
+msgstr ""
+"Вставьте шорткод, созданный с любом подходящем плагине (например, Contact "
+"Form 7). При необходимости, вы можете вставить сюда другие шорткоды"
+
+#: functions/customize/ip_customize_settings.php:1320
+msgid ""
+"Paste subscribe, generated with any subscribe plugin (for example, MailChimp)"
+msgstr ""
+"Вставьте подписку, созданную с помощью любого плагина подписки (например "
+"MailChimp)"
+
+#: woocommerce/checkout/payment.php:25
+msgid "Payment Method"
+msgstr "Способ оплаты"
+
+#: functions/customize/ip_customize_settings.php:1525
+msgid "Performance"
+msgstr "Производительность"
+
+#: functions/customize/ip_customize_settings.php:1475
+#: page-templates/contact.php:31
+msgid "Phones"
+msgstr "Телефоны"
+
+#: functions/customize/ip_customize_settings.php:524
+msgid "Pinterest url"
+msgstr "Pinterest"
+
+#: functions.php:884
+msgctxt "placeholder"
+msgid "Search &hellip;"
+msgstr "Поиск ..."
+
+#: functions.php:1296
+msgid ""
+"Please enable a <b>static page</b> for your homepage and start using <b>"
+"Front Page builder</b>"
+msgstr ""
+"Пожалуйста, включите <b>главную страницу</b> для вашего сайта и начните "
+"использовать <b>конструктор главной страницы</b>"
+
+#: functions/theme-about/theme-about.php:308
+msgid "Please install necessary additional plugins before importing"
+msgstr ""
+"Пожалуйста, установите необходимые дополнительные плагины перед импортом"
+
+#: functions/customize/ip_customize_settings.php:2567
+msgid "Please reload the page to see the settings of the new blocks"
+msgstr ""
+"Пожалуйста, перезагрузите страницу, чтобы увидеть настройки новых блоков"
+
+#: functions/customize/ip_customize_settings.php:96
+msgid "Popup (ajax)"
+msgstr "Всплывающее окно (Аякс)"
+
+#: functions/customize/ip_customize_settings.php:97
+msgid "Popup (without ajax)"
+msgstr "Всплывающее окно (без AJAX)"
+
+#: functions/customize/ip_customize_settings.php:1403
+msgid "Post/Page Settings"
+msgstr "Параметры Записи/Страницы"
+
+#: functions/customize/ip_customize_settings.php:1091
+msgid "Posts Category"
+msgstr "Категория статей"
+
+#: functions/customize/ip_customize_settings.php:1104
+msgid "Posts in section"
+msgstr "Посты в разделе"
+
+#: functions/customize/ip_customize_settings.php:1897
+msgid "Preview size in the mobile product list"
+msgstr "Размер превью в мобильном каталоге товаров"
+
+#: woocommerce/single-product.php:101
+msgid "Previous (arrow left)"
+msgstr "Предыдущие (стрелка влево)"
+
+#: functions.php:702
+msgid "Previous Post"
+msgstr "Предыдущая статья"
+
+#: functions/customize/ip_customize_settings.php:230
+msgid "Product category menu"
+msgstr "Меню продуктовой категории"
+
+#: functions.php:468
+msgid "Product list"
+msgstr "Список товаров"
+
+#: functions/customize/ip_customize_settings.php:1737
+msgid "Product modal gallery on product page"
+msgstr "Всплывающая галерея изображений на странице товара"
+
+#: functions/customize/ip_customize_settings.php:1803
+msgid "Product navigation in same category"
+msgstr "Навигация по товарам из той же категории"
+
+#: functions/customize/ip_customize_settings.php:1694
+msgid "Product newness"
+msgstr "Новизна товаров"
+
+#: functions.php:477
+msgid "Product page"
+msgstr "Страница товара"
+
+#: functions/customize/ip_customize_settings.php:1678
+msgid "Product Share Buttons"
+msgstr "Блок \"Поделиться\" в карточке продукта"
+
+#: functions/customize/ip_customize_settings.php:856
+msgid "Product Tabs"
+msgstr "Вкладки Товаров"
+
+#: functions/customize/ip_customize_settings.php:586
+msgid "Product tabs"
+msgstr "Вкладки товаров"
+
+#: functions/customize/ip_customize_settings.php:1656
+msgid "Product Tabs (Default)"
+msgstr "Вкладки товаров (по-умолчанию)"
+
+#: functions/customize/ip_customize_settings.php:1671
+msgid "Product tabs as sections on mobile"
+msgstr "Отображать закладки (tabs) в карточке продукта в виде отдельных секций"
+
+#: functions/customize/ip_customize_settings.php:1744
+msgid "Product thumbnails"
+msgstr "Превью в галерее продукта"
+
+#: functions/customize/ip_customize_settings.php:973
+msgid "Products"
+msgstr "Товары"
+
+#: functions/customize/ip_customize_settings.php:874
+msgid "Products in tab"
+msgstr "Товаров во вкладке"
+
+#: functions/customize/ip_customize_settings.php:3293
+msgid "Products shortcode"
+msgstr "Шоткод"
+
+#: functions.php:700
+msgid "Published In"
+msgstr "Опубликовано"
+
+#: woocommerce/content-product.php:45
+msgid "Quick View"
+msgstr "Быстрый просмотр"
+
+#: functions/customize/ip_customize_settings.php:1710
+msgid "Quick view"
+msgstr "Быстрый просмотр"
+
+#: functions/customize/ip_customize_settings.php:723
+msgid "Random"
+msgstr "Случайный"
+
+#: content-bottom.php:19
+msgid "Read More"
+msgstr "Читать дальше"
+
+#: functions/customize/ip_customize_settings.php:3291
+msgid "Recent Products"
+msgstr "Новые товары"
+
+#: functions/customize/ip_customize_settings.php:1012
+msgid "Recent products tab header"
+msgstr "Заголовок новых товаров"
+
+#: functions.php:234
+msgid "Regenerate Thumbnails"
+msgstr "Regenerate Thumbnails"
+
+#: functions/customize/ip_customize_settings.php:2567
+msgid "Reload"
+msgstr "Перегрузить"
+
+#: functions/megamenu/edit_custom_walker.php:279
+msgid "Remove"
+msgstr "Удалить"
+
+#: functions/customize/ip_customize_settings.php:280
+msgid "Responsive menu item width"
+msgstr "Резиновый пункт меню"
+
+#: functions/customize/ip_customize_settings.php:42
+msgid "Retina Logo"
+msgstr "Ретина лого"
+
+#: functions/customize/ip_customize_settings.php:389
+msgid "Retina Logo (optional)"
+msgstr "Ретина лого (опционально)"
+
+#: functions/customize/ip_customize_settings.php:390
+msgid ""
+"Retina Ready Image logo. It should has width 220px (for landscape style logo)"
+" or height 220px (for portrait style logo)"
+msgstr ""
+"Изображение ретина-лого. Необходимая ширина 220px (для горизонтального лого) "
+"или высота 220px (для вертикального лого)"
+
+#: functions/customize/ip_customize_settings.php:43
+msgid ""
+"Retina Ready Image logo. It should has width 310px (for landscape style logo)"
+" or height 310px (for portrait style log)"
+msgstr ""
+"Изображение ретина-лого. Необходимая ширина 310px (для горизонтального лого) "
+"или высота 310px (для вертикального лого)"
+
+#: functions/customize/ip_customize_settings.php:589
+#: functions/customize/ip_customize_settings.php:1113
+msgid "Reviews"
+msgstr "Отзывы"
+
+#: functions.php:241
+msgid "Revolution Slider"
+msgstr ""
+
+#: functions/customize/ip_customize_settings.php:773
+#: functions/customize/ip_customize_settings.php:796
+msgid "Right"
+msgstr "Справа"
+
+#: functions/customize/ip_customize_settings.php:1603
+msgid "Sale badge Color"
+msgstr "Цвет значка распродажи"
+
+#: functions/customize/ip_customize_settings.php:3289
+msgid "Sale Products"
+msgstr "Товары со скидкой"
+
+#: functions/customize/ip_customize_settings.php:992
+msgid "Sale products tab header"
+msgstr "Заголовок товаров со скидкой"
+
+#: functions.php:724
+msgid "says:"
+msgstr "говорит:"
+
+#: functions/customize/ip_customize_settings.php:110
+msgid "Search by SKU"
+msgstr "Поиск по  SKU"
+
+#: functions/customize/ip_customize_settings.php:101
+msgid "Search products only"
+msgstr "Поиск только по продуктам"
+
+#: functions.php:910
+msgid "search products..."
+msgstr "поиск товаров..."
+
+#: search.php:13
+msgid "Search Results"
+msgstr "Результаты поиска"
+
+#: functions/customize/ip_customize_settings.php:90
+msgid "Search type"
+msgstr "Тип поиска"
+
+#: functions/customize/ip_customize_settings.php:1581
+msgid "Second Accent Color"
+msgstr "Второй Цветовой Акцент"
+
+#: functions/customize/ip_customize_settings.php:1085
+msgid "Section Header"
+msgstr "Заголовок раздела"
+
+#: functions/customize/ip_customize_settings.php:578
+msgid "Sections order"
+msgstr "Порядок секций"
+
+#: functions/customize/ip_customize_settings.php:2270
+#: functions/customize/ip_customize_settings.php:2293
+msgid "Select"
+msgstr "Выберите"
+
+#: functions/customize/ip_customize_settings.php:1092
+msgid ""
+"Select category if you want the posts from this category to be shown at the "
+"bottom of the home page"
+msgstr "Выберите категорию, статьи которой хотите показать на главной странице"
+
+#: functions/megamenu/edit_custom_walker.php:246
+#: functions/megamenu/mega-menu.php:131
+msgid "Select Icon"
+msgstr "Выберите иконку"
+
+#: functions/customize/ip_customize_settings.php:677
+msgid "Set to zero if you want to disable autoplay"
+msgstr "Укажите ноль, если вы хотите отключить автозапуск"
+
+#: woocommerce/single-product.php:84
+msgid "Share"
+msgstr "Поделиться"
+
+#: functions/customize/ip_customize_settings.php:1789
+msgid "Short sidebar on product pages"
+msgstr "Короткая боковой панель на странице товара"
+
+#: functions/customize/ip_customize_settings.php:592
+#: functions/customize/ip_customize_settings.php:1269
+#: functions/customize/ip_customize_settings.php:1319
+msgid "Shortcode"
+msgstr "Шорткод"
+
+#: functions/customize/ip_customize_settings.php:1247
+msgid "Shortcode block"
+msgstr "Блок с шорткодом"
+
+#: functions/customize/ip_customize_settings.php:972
+msgid "Shortcode tab header"
+msgstr "Заголовок таба с шоткодом"
+
+#: functions/customize/ip_customize_settings.php:1502
+msgid "Shortcode with contact form"
+msgstr "Шорткод с контактной формой"
+
+#: functions/customize/ip_customize_settings.php:963
+msgid "Shortcodes included with WooCommerce"
+msgstr "Список доступных шоткодов Woocommecre"
+
+#: functions/customize/ip_customize_settings.php:338
+msgid "Show button Login / My Account "
+msgstr "Отображать кнопку \"Войти / Аккаунт\""
+
+#: functions/customize/ip_customize_settings.php:192
+msgid "Show Cart button"
+msgstr "Отображать кнопку Корзина"
+
+#: functions/customize/ip_customize_settings.php:1825
+msgid "Show category description at the bottom of the page"
+msgstr "Отображать описание категории внизу страницы"
+
+#: functions/customize/ip_customize_settings.php:1283
+#: functions/customize/ip_customize_settings.php:1333
+msgid "Show code inside container"
+msgstr "Показать код внутри контейнера"
+
+#: functions/woocommerce/woocommerce-quickview.php:33
+msgid "Show Full Details"
+msgstr "Показать полную информацию"
+
+#: functions/customize/ip_customize_settings.php:1818
+msgid "Show Home page in breadcrumbs on the product page"
+msgstr "Показать \"Главная\" в хлебных крошках на странице продукта"
+
+#: functions/customize/ip_customize_settings.php:1232
+msgid "Show html inside container"
+msgstr "Показать HTML-код внутри контейнера"
+
+#: functions/customize/ip_customize_settings.php:178
+msgid "Show Login / My Account icon before cart icon"
+msgstr "Отображать кнопку входа в аккаунт (рядом с корзиной)"
+
+#: functions/customize/ip_customize_settings.php:1832
+msgid "Show product thumbnails on the Cart page on mobile devices"
+msgstr "Отображать превью товаров в корзине на мобильных устройствах"
+
+#: functions/customize/ip_customize_settings.php:185
+msgid "Show Search button"
+msgstr "Отображать кнопку поиска"
+
+#: functions/customize/ip_customize_settings.php:1796
+msgid "Show share buttons on product page"
+msgstr "Показать кнопки Поделиться на странице продукта"
+
+#: functions/customize/ip_customize_settings.php:1811
+msgid "Show star rating in the product list"
+msgstr "Отображать рейтинг в превью товаров"
+
+#: functions/customize/ip_customize_settings.php:1757
+msgid "Show thumbnails in the mobile version"
+msgstr "Отображение превью в галерее в мобильной версии"
+
+#: functions/customize/ip_customize_settings.php:929
+msgid "Show view more button as last product"
+msgstr "Показать кнопку \"Все товары\" как последний продукт"
+
+#: functions/customize/ip_customize_settings.php:199
+msgid "Show Wishlist button"
+msgstr "Отображать кнопку \"Лист желаний\""
+
+#: functions.php:449
+msgid "Sidebar"
+msgstr "Боковая панель"
+
+#: single-attachment.php:49
+msgid "Size"
+msgstr "Размер"
+
+#: functions/customize/ip_customize_settings.php:663
+msgid "Slide"
+msgstr "Листание"
+
+#: functions/customize/ip_customize_settings.php:583
+#: functions/customize/ip_customize_settings.php:623
+msgid "Slider"
+msgstr "Слайдер"
+
+#: functions/customize/ip_customize_settings.php:668
+msgid "Slider Items"
+msgstr "Слайды"
+
+#: functions/customize/ip_customize_settings.php:1904
+msgid "Small preview"
+msgstr "Небольшое превью"
+
+#: functions/customize/ip_customize_settings.php:439
+msgid "Social Media Links"
+msgstr "Социальные ссылки"
+
+#: functions/customize/ip_customize_settings.php:3354
+#: functions/customize/ip_customize_settings.php:3366
+#: functions/theme-about/theme-about.php:69 functions.php:1256
+msgid "Something went wrong..."
+msgstr "Что-то пошло не так..."
+
+#: index.php:57
+msgid "Sorry, no posts were found."
+msgstr "К сожалению, посты не были найдены."
+
+#: search.php:76
+msgid "Sorry, no posts were found. Try searching for something else."
+msgstr "К сожалению, посты не были найдены. Попробуйте поискать что-то другое."
+
+#: functions/customize/ip_customize_settings.php:717
+msgid "Sort order"
+msgstr "Порядок сортировки"
+
+#: functions/customize/ip_customize_settings.php:1200
+msgid "Source Code (HTML, JavaScript)"
+msgstr "Исходный код (HTML, JavaScript)"
+
+#: functions/customize/ip_customize_settings.php:1216
+msgid "Source Code (Shortcode, HTML, JavaScript)"
+msgstr "Исходный код  (Shortcode, HTML, JavaScript)"
+
+#: functions/customize/ip_customize_settings.php:1595
+msgid "Star Rating Color"
+msgstr "Цвет звездочек рейтинга"
+
+#: functions/customize/ip_customize_settings.php:350
+msgid "Sticky menu"
+msgstr "Прилипающее меню"
+
+#: functions/customize/ip_customize_settings.php:345
+msgid "Sticky Menu Settings"
+msgstr "Параметры прилипающего меню"
+
+#: functions/customize/ip_customize_settings.php:356
+msgid "Sticky menu view"
+msgstr "Вид прилипающего меню"
+
+#: functions/customize/ip_customize_settings.php:130
+msgid "Sticky sidebar"
+msgstr "\"Липкий\" сайдбар"
+
+#: functions/customize/ip_customize_settings.php:1623
+msgid "Store notice placement"
+msgstr "Размещение уведомления магазина"
+
+#: functions/customize/ip_customize_settings.php:753
+msgid "Sub header"
+msgstr "Подзаголовок"
+
+#: functions/megamenu/edit_custom_walker.php:129
+msgid "sub item"
+msgstr "Подпункт"
+
+#: functions/megamenu/edit_custom_walker.php:217
+msgid "Submenu type: "
+msgstr "Тип подменю: "
+
+#: functions/customize/ip_customize_settings.php:593
+msgid "Subscribe"
+msgstr "Подписка"
+
+#: functions/customize/ip_customize_settings.php:1298
+msgid "Subscribe block"
+msgstr "Блок подписки"
+
+#: functions/megamenu/mega-menu.php:75
+#: functions/woocommerce/woocommerce-tax-extra-fields.php:53
+#: functions/woocommerce/woocommerce-tax-extra-fields.php:83
+msgid "SVG Icon"
+msgstr "SVG иконка"
+
+#: functions/customize/ip_customize_settings.php:940
+msgid "Tab list"
+msgstr "Список вкладок"
+
+#: functions/customize/ip_customize_settings.php:952
+msgid "Tab products shortcode"
+msgstr "Шоткод для таба"
+
+#: content.php:20
+msgid "Tags"
+msgstr "Теги"
+
+#: functions/customize/ip_customize_settings.php:485
+msgid "Telegram url"
+msgstr ""
+
+#: functions/customize/ip_customize_settings.php:765
+msgid "Text align"
+msgstr "Выравнивание текста"
+
+#: functions/customize/ip_customize_settings.php:301
+#: functions/customize/ip_customize_settings.php:421
+#: functions/customize/ip_customize_settings.php:828
+msgid "Text color"
+msgstr "Цвет текста"
+
+#: functions/customize/ip_customize_settings.php:362
+msgid "Text only"
+msgstr "Только текст"
+
+#: functions/megamenu/edit_custom_walker.php:209
+msgid ""
+"The description will be displayed in the menu if the current theme supports "
+"it."
+msgstr ""
+"Описание будет отображаться в меню, если текущая тема поддерживает его."
+
+#: functions/customize/ip_customize_settings.php:875
+msgid "The number of products in the home tabs."
+msgstr "Количество товаров во вкладка."
+
+#: 404.php:22
+msgid "The page you are looking for has not been found, try using search"
+msgstr "Страница, которую вы ищете, не найдена. Попробуйте использовать поиск"
+
+#: functions/theme-about/theme-about.php:314
+msgid "Theme customization"
+msgstr "Настройки темы"
+
+#: functions/customize/ip_customize_settings.php:649
+msgid "Third-party slider shortcode"
+msgstr "Шорткод стороннего слайдера"
+
+#: functions/customize/ip_customize_settings.php:157
+msgid "This is a settings section to change header options and upload logo."
+msgstr "В этом разделе можно изменить параметры шапки и загрузить ваш лого."
+
+#: functions/customize/ip_customize_settings.php:1638
+msgid "This is a settings section to change Kidz WooCommerce properties."
+msgstr "Это раздел настроек темы Kidz для WooCommerce."
+
+#: functions/customize/ip_customize_settings.php:632
+#: functions/customize/ip_customize_settings.php:709
+#: functions/customize/ip_customize_settings.php:739
+#: functions/customize/ip_customize_settings.php:865
+#: functions/customize/ip_customize_settings.php:1053
+#: functions/customize/ip_customize_settings.php:1077
+#: functions/customize/ip_customize_settings.php:1121
+#: functions/customize/ip_customize_settings.php:1145
+#: functions/customize/ip_customize_settings.php:1177
+#: functions/customize/ip_customize_settings.php:1255
+#: functions/customize/ip_customize_settings.php:1305
+msgid "This section is not shown because it is disabled in "
+msgstr "Этот раздел не отображается, так как он отключен в"
+
+#: functions/woocommerce/woocommerce-tax-extra-fields.php:139
+msgid "Thumbnail"
+msgstr "Тумбнейл"
+
+#: functions/megamenu/edit_custom_walker.php:183
+msgid "Title Attribute"
+msgstr "Атрибут title"
+
+#: functions/megamenu/edit_custom_walker.php:260
+msgid "To the top"
+msgstr "Наверх"
+
+#: functions/customize/ip_customize_settings.php:144
+msgid "To Top Button color"
+msgstr "Цвет кнопки \"Наверх\""
+
+#: functions/customize/ip_customize_settings.php:137
+msgid "To Top Button Enable"
+msgstr "Включить кнопку \"Наверх\""
+
+#: woocommerce/single-product.php:86
+msgid "Toggle fullscreen"
+msgstr "Полноэкранный режим"
+
+#: functions/customize/ip_customize_settings.php:805
+msgid "Top"
+msgstr "Верх"
+
+#: functions.php:94
+msgid "Top Menu"
+msgstr "Верхнее меню"
+
+#: functions/customize/ip_customize_settings.php:311
+msgid "Top menu background color"
+msgstr "Цвет фона верхнего меню"
+
+#: functions/customize/ip_customize_settings.php:288
+msgid "Top Menu Settings"
+msgstr "Настройки верхнего меню"
+
+#: functions/customize/ip_customize_settings.php:321
+#, fuzzy
+msgid "Top menu text"
+msgstr "Текст в верхнем меню"
+
+#: functions/customize/ip_customize_settings.php:312
+msgid "Transparent if empty"
+msgstr "Прозрачный, если не заполнено"
+
+#: functions/customize/ip_customize_settings.php:529
+msgid "Tumblr url"
+msgstr "Tumblr"
+
+#: functions/customize/ip_customize_settings.php:497
+msgid "Twitter url"
+msgstr "Twitter"
+
+#: functions/megamenu/edit_custom_walker.php:256
+msgid "Up one"
+msgstr "На один вверх"
+
+#: functions/theme-about/theme-about.php:169
+#: functions/theme-about/theme-about.php:175
+msgid "Update"
+msgstr "Обновление"
+
+#: functions/theme-about/theme-about.php:155
+msgid "Update %s"
+msgstr "Обновление %s"
+
+#: functions/megamenu/edit_custom_walker.php:170
+msgid "URL"
+msgstr ""
+
+#: functions/customize/ip_customize_settings.php:555
+msgid "Url"
+msgstr ""
+
+#: functions/megamenu/mega-menu.php:130
+msgid "Use image"
+msgstr "Используйте изображения"
+
+#: functions/customize/ip_customize_settings.php:1530
+msgid "Use minified CSS"
+msgstr "Использовать сжатый CSS"
+
+#: functions/customize/ip_customize_settings.php:1537
+msgid "Use minified JS"
+msgstr "Использовать сжатый JS"
+
+#: functions/theme-about/theme-about.php:307
+msgid "Use our Demo Content Importer to make your website similar to our demos"
+msgstr ""
+"Используйте наш импорт демо чтобы сделать ваш сайт похожим на наши демо"
+
+#: functions/customize/ip_customize_settings.php:1562
+msgid "Use parameter display=swap for Google Fonts"
+msgstr "Использовать параметр display=swap для Google Fonts"
+
+#: functions/customize/ip_customize_settings.php:1526
+msgid ""
+"Use these options to put your theme to a high speed as well as save your "
+"server resources!"
+msgstr ""
+"Используйте эти опции, чтобы ускорить свой сайт, а также облегчить нагрузку "
+"на сервер!"
+
+#: functions/customize/ip_customize_settings.php:1884
+msgid "Used to create the share links and wishlist button in header"
+msgstr "Используется для создания ссылки на кнопку и хотелки в заголовке"
+
+#: woocommerce/content-single-product.php:81
+#: woocommerce/single-product/product-thumbnails.php:81
+msgid "Video"
+msgstr "Видео"
+
+#: functions.php:629
+msgid "View all posts in %s"
+msgstr "Просмотреть все статьи в %s"
+
+#: functions.php:609
+msgid "View all results"
+msgstr "Посмотреть все результаты"
+
+#: functions.php:1214 inc/home-tabs.php:97
+msgid "View More"
+msgstr "Все товары"
+
+#: functions/customize/ip_customize_settings.php:921
+msgid "View more button"
+msgstr "Кнопка \"Все товары\""
+
+#: functions/customize/ip_customize_settings.php:509
+msgid "Vimeo url"
+msgstr "Vimeo"
+
+#: functions/customize/ip_customize_settings.php:473
+msgid "VK url"
+msgstr "ВК"
+
+#: functions/theme-about/theme-about.php:233
+msgid "Welcome to %1$s v. %2$s"
+msgstr "Добро пожаловать в %1$s v. %2$s"
+
+#: header.php:14
+msgid "What you are looking for?"
+msgstr "Что вы ищете?"
+
+#: functions/customize/ip_customize_settings.php:491
+msgid "Whatsapp url"
+msgstr ""
+
+#: functions/customize/ip_customize_settings.php:206
+msgid "Wishlist button is not shown because Wishlist Page is not set "
+msgstr ""
+"Кнопка \"Лист желаний\" не будет отображаться, потому что вы не выбрали "
+"страницу для листа желаний"
+
+#: functions/customize/ip_customize_settings.php:1883
+msgid "Wishlist page"
+msgstr "Страница для списка желаний"
+
+#: functions/customize/ip_customize_settings.php:1870
+msgid "Wishlist Settings"
+msgstr "Параметры списка желаний"
+
+#: functions/customize/ip_customize_settings.php:1876
+msgid "Wishlist Share"
+msgstr "Поделиться списком желаний"
+
+#. Template Name of the plugin/theme
+msgid "Without Sidebar"
+msgstr "Отключить сайдбар"
+
+#: functions.php:207
+msgid "WooCommerce"
+msgstr "WooCommerce"
+
+#: functions/customize/ip_customize_settings.php:1199
+msgid "WYSIWYG editor"
+msgstr "WYSIWYG редактор"
+
+#: functions/theme-about/theme-about.php:293
+msgid ""
+"You can install additional plugins to extend the functionality of the theme"
+msgstr ""
+"Вы можете установить дополнительные плагины для расширения функциональности "
+"темы"
+
+#: functions/customize/ip_customize_settings.php:322
+msgid "You can put contact phones or working time here"
+msgstr "Вы можете разместить здесь контактные телефоны и время работы"
+
+#: inc/related-posts.php:23
+msgid "You Might Also Like"
+msgstr "Вам также может понравиться"
+
+#: functions.php:747
+msgid "Your comment is awaiting moderation."
+msgstr "Ваш комментарий ожидает модерации."
+
+#: functions/customize/ip_customize_settings.php:503
+msgid "YouTube url"
+msgstr "YouTube"
+
+#: woocommerce/single-product.php:88
+msgid "Zoom in/out"
+msgstr "Увеличение/уменьшение"

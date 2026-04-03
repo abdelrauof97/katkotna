@@ -1,0 +1,89 @@
+# Copyright (C) 2026 Kidz Wishlist
+# This file is distributed under the same license as the Kidz Wishlist package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Kidz Wishlist 2.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/ideapark-"
+"wishlist\n"
+"POT-Creation-Date: 2026-01-21 08:52:01+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2026-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: ideapark-wishlist.php:24
+msgid "This plugin works only with Kidz theme"
+msgstr ""
+
+#: includes/class-ideapark-wishlist.php:150
+msgid "Wishlist"
+msgstr ""
+
+#: includes/class-ideapark-wishlist.php:150
+#: includes/class-ideapark-wishlist.php:262
+msgid "Remove from Wishlist"
+msgstr ""
+
+#: includes/class-ideapark-wishlist.php:150
+#: includes/class-ideapark-wishlist.php:261
+msgid "Add to Wishlist"
+msgstr ""
+
+#: includes/class-ideapark-wishlist.php:307
+#: includes/class-ideapark-wishlist.php:316
+msgid "Cheatin&#8217; huh?"
+msgstr ""
+
+#: templates/wishlist.php:39
+msgid "Product"
+msgstr ""
+
+#: templates/wishlist.php:42
+msgid "Price"
+msgstr ""
+
+#: templates/wishlist.php:46
+msgid "Stock Status"
+msgstr ""
+
+#: templates/wishlist.php:63
+msgid "Remove"
+msgstr ""
+
+#: templates/wishlist.php:93
+msgid "Share Wishlist:"
+msgstr ""
+
+#: templates/wishlist.php:120
+msgid "Share Link:"
+msgstr ""
+
+#: templates/wishlist.php:140
+msgid "The wishlist is currently empty."
+msgstr ""
+
+#: templates/wishlist.php:143
+msgid "Click the %s icons to add products"
+msgstr ""
+
+#: templates/wishlist.php:149
+msgid "Return To Shop"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Kidz Wishlist"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Wishlist plugin for the Kidz theme."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "parkofideas.com"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://parkofideas.com"
+msgstr ""

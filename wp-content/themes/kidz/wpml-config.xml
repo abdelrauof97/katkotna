@@ -1,0 +1,87 @@
+<wpml-config>
+	<custom-types>
+		<custom-type translate="1">slider</custom-type>
+		<custom-type translate="1">banner</custom-type>
+		<custom-type translate="1">banner</custom-type>
+		<custom-type translate="1">brand</custom-type>
+		<custom-type translate="1">review</custom-type>
+	</custom-types>
+	<admin-texts>
+        <key name="theme_mods_kidz">
+            <key name="top_menu_text" />
+            <key name="footer_contacts" />
+			<key name="footer_copyright" />
+			<key name="custom_soc_url" />
+			<key name="slider_shortcode" />
+			<key name="home_big_banner_header" />
+			<key name="home_big_banner_subheader" />
+			<key name="home_big_banner_button_text" />
+			<key name="home_big_banner_link" />
+			<key name="home_tab_shortcode" />
+			<key name="home_tab_shortcode_title" />
+			<key name="home_featured_title" />
+			<key name="home_sale_title" />
+			<key name="home_best_selling_title" />
+			<key name="home_recent_title" />
+			<key name="home_post_title" />
+			<key name="home_html_header" />
+            <key name="home_html_content" />
+            <key name="home_html_content_source" />
+			<key name="home_shortcode_header" />
+			<key name="home_shortcode_content" />
+			<key name="home_subscribe_header" />
+			<key name="home_subscribe_content" />
+            <key name="contact_phones" />
+            <key name="contact_email" />
+            <key name="contact_address" />
+			<key name="contact_form_shortcode" />
+            <key name="contact_map_shortcode" />
+            <key name="store_notice_button_text" />
+			<key name="product_grid_load_more_text" />
+			<key name="description_tab_header" />
+			<key name="additional_information_tab_header" />
+			<key name="filter_button_text" />
+			<key name="outofstock_badge_text" />
+			<key name="featured_badge_text" />
+			<key name="sale_badge_text" />
+			<key name="new_badge_text" />
+			<key name="related_product_header" />
+			<key name="upsells_product_header" />
+			<key name="cross_sells_product_header" />
+            <key name="recently_product_header" />
+			<key name="home_tab_shortcode_2" />
+			<key name="home_tab_shortcode_title_2" />
+			<key name="home_featured_title_2" />
+			<key name="home_sale_title_2" />
+			<key name="home_best_selling_title_2" />
+			<key name="home_recent_title_2" />
+			<key name="home_html_header_2" />
+            <key name="home_html_content_2" />
+            <key name="home_html_content_source_2" />
+			<key name="home_shortcode_header_2" />
+			<key name="home_shortcode_content_2" />
+			<key name="home_tab_shortcode_3" />
+			<key name="home_tab_shortcode_title_3" />
+			<key name="home_featured_title_3" />
+			<key name="home_sale_title_3" />
+			<key name="home_best_selling_title_3" />
+			<key name="home_recent_title_3" />
+			<key name="home_html_header_3" />
+            <key name="home_html_content_3" />
+            <key name="home_html_content_source_3" />
+			<key name="home_tab_shortcode_4" />
+			<key name="home_tab_shortcode_title_4" />
+			<key name="home_featured_title_4" />
+			<key name="home_sale_title_4" />
+			<key name="home_best_selling_title_4" />
+			<key name="home_recent_title_4" />
+			<key name="home_shortcode_header_3" />
+			<key name="home_shortcode_content_3" />
+			<key name="home_shortcode_header_4" />
+			<key name="home_shortcode_content_4" />
+			<key name="home_html_header_4" />
+            <key name="home_html_content_4" />
+            <key name="home_html_content_source_4" />
+        </key>
+	</admin-texts>
+</wpml-config>

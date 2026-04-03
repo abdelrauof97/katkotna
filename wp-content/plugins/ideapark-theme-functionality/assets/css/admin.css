@@ -1,0 +1,105 @@
+.ideapark-custom-field-panel .form-field {
+	display: flex;
+	flex-wrap: nowrap;
+	padding-top: 7px;
+	padding-bottom: 7px;
+	align-items: baseline;
+}
+
+.ideapark-custom-field-panel input[type=checkbox] {
+	margin-top: 0;
+}
+
+.ideapark-custom-field-panel input[type=number] {
+	margin-top: 0;
+	width: 60px;
+}
+
+.ideapark-custom-field-panel label {
+	flex: 0 0 auto;
+	width: 170px;
+	margin-right: 5px;
+	padding-right: 10px;
+	border-bottom: dashed 1px #ddd;
+}
+
+.ideapark-custom-field-panel .color-picker {
+	display: inline-block;
+	width: 80px;
+}
+
+.ideapark-theme-functionality-warning {
+	display:               inline-block;
+	line-height:           1;
+	padding:               7px 8px 8px 8px;
+	border:                solid 1px currentColor;
+	color:                 #dc3545;
+	-webkit-border-radius: 4px;
+	-moz-border-radius:    4px;
+	border-radius:         4px;
+}
+
+#sample-permalink {
+	-ms-word-wrap: break-word;
+	word-wrap:     break-word;
+}
+
+.h-invisible {
+	z-index:        1;
+	opacity:        0;
+	visibility:     hidden;
+	width:          1px;
+	height:         1px;
+	position:       absolute;
+	pointer-events: none;
+}
+
+.ideapark-hidden-category {
+	position:         absolute;
+	display:          inline-flex;
+	background-color: white;
+	color:            black;
+	border:           solid 1px #000;
+	font-weight:      500;
+	font-size:        9px;
+	border-radius:    2px;
+	padding:          1px 2px;
+	line-height:      1;
+	text-transform:   uppercase;
+	top:              35px;
+	inset-inline-start:  4px;
+}
+
+.taxonomy-product_cat tr {
+	position: relative;
+}
+
+.taxonomy-product_cat .handle {
+	position: static !important;
+}
+
+.wp-picker-input-wrap label {
+	float:   none !important;
+	width:   unset !important;
+	margin:  0 !important;
+	padding: 0 !important;
+}
+
+@media (max-width: 782px) {
+	.ideapark-hidden-category {
+		top: 45px;
+	}
+}
+
+@media (max-width: 413px) {
+
+	.ideapark-custom-field-panel .form-field {
+		display: block;
+	}
+
+	.ideapark-custom-field-panel label {
+		display: block;
+		border-bottom: none;
+		margin-bottom: 3px;
+	}
+}

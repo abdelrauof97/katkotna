@@ -1,0 +1,933 @@
+# Copyright (C) 2026 Kidz Core
+# This file is distributed under the same license as the Kidz Core package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Kidz Core 5.25\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/ideapark-theme-"
+"functionality\n"
+"POT-Creation-Date: 2026-01-21 08:52:01+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2026-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: ideapark-theme-functionality.php:25
+msgid "The Kidz theme is not activated! This plugin works only with Kidz theme"
+msgstr ""
+
+#: ideapark-theme-functionality.php:42
+msgid ""
+"The Luciana theme version and the theme core plugin version must be the "
+"same. Please update the plugin to version %s"
+msgstr ""
+
+#: ideapark-theme-functionality.php:100
+msgid "Slides"
+msgstr ""
+
+#: ideapark-theme-functionality.php:101
+msgid "Slide"
+msgstr ""
+
+#: ideapark-theme-functionality.php:123
+msgid "Banners"
+msgstr ""
+
+#: ideapark-theme-functionality.php:124
+msgid "Banner"
+msgstr ""
+
+#: ideapark-theme-functionality.php:146
+msgid "Brands"
+msgstr ""
+
+#: ideapark-theme-functionality.php:147
+msgid "Brand"
+msgstr ""
+
+#: ideapark-theme-functionality.php:169
+msgid "Reviews"
+msgstr ""
+
+#: ideapark-theme-functionality.php:170
+msgid "Review"
+msgstr ""
+
+#: ideapark-theme-functionality.php:199
+msgid "Slider details"
+msgstr ""
+
+#: ideapark-theme-functionality.php:200
+msgid "Banner details"
+msgstr ""
+
+#: ideapark-theme-functionality.php:201
+msgid "Brand details"
+msgstr ""
+
+#: ideapark-theme-functionality.php:202
+msgid "Review details"
+msgstr ""
+
+#: ideapark-theme-functionality.php:216
+msgid "Subheader"
+msgstr ""
+
+#: ideapark-theme-functionality.php:224 ideapark-theme-functionality.php:326
+msgid "Link"
+msgstr ""
+
+#: ideapark-theme-functionality.php:232
+msgid "Text Color"
+msgstr ""
+
+#: ideapark-theme-functionality.php:241
+msgid "Custom mobile image (by default, the featured image is used)"
+msgstr ""
+
+#: ideapark-theme-functionality.php:261
+msgid "Hide Title"
+msgstr ""
+
+#: ideapark-theme-functionality.php:270
+msgid "Stretch Image"
+msgstr ""
+
+#: ideapark-theme-functionality.php:279
+msgid "Price"
+msgstr ""
+
+#: ideapark-theme-functionality.php:288
+msgid "Button Text"
+msgstr ""
+
+#: ideapark-theme-functionality.php:298
+msgid "Button Link"
+msgstr ""
+
+#: ideapark-theme-functionality.php:307
+msgid "Accent Color"
+msgstr ""
+
+#: ideapark-theme-functionality.php:344
+msgid "Occupation"
+msgstr ""
+
+#: ideapark-theme-functionality.php:356
+msgid "Featured Image"
+msgstr ""
+
+#: ideapark-theme-functionality.php:400
+msgid "Video URL"
+msgstr ""
+
+#: ideapark-theme-functionality.php:403
+msgid "Enter the url to product video (Youtube, Vimeo etc.)."
+msgstr ""
+
+#: ideapark-theme-functionality.php:500 ideapark-theme-functionality.php:629
+msgid "Share"
+msgstr ""
+
+#: ideapark-theme-functionality.php:613
+msgid "Share on Facebook"
+msgstr ""
+
+#: ideapark-theme-functionality.php:616
+msgid "Share on Twitter"
+msgstr ""
+
+#: ideapark-theme-functionality.php:619
+msgid "Pin on Pinterest"
+msgstr ""
+
+#: ideapark-theme-functionality.php:622
+msgid "Share on Whatsapp"
+msgstr ""
+
+#: ideapark-theme-functionality.php:732
+msgid "Go to %s Theme page"
+msgstr ""
+
+#: ideapark-theme-functionality.php:779
+msgid ""
+"You have not registered the theme yet! Please <a href=\"%1$s\">enter your "
+"purchase code</a> or <a href=\"%2$s\" target=\"_blank\">get a new license "
+"here</a>."
+msgstr ""
+
+#: importer/importer.php:116
+msgid "Import Demo Content"
+msgstr ""
+
+#: importer/importer.php:131
+msgid "Please wait..."
+msgstr ""
+
+#: importer/importer.php:132
+msgid "Are you sure you want to import?"
+msgstr ""
+
+#: importer/importer.php:133
+msgid "Importing ..."
+msgstr ""
+
+#: importer/importer.php:134 importer/importer.php:233
+msgid "Progress"
+msgstr ""
+
+#: importer/importer.php:135
+msgid "Output Error"
+msgstr ""
+
+#: importer/importer.php:161 importer/importer.php:202
+msgid "One-Click Import Demo Content"
+msgstr ""
+
+#: importer/importer.php:205
+msgid "Select the demo site you want to import: "
+msgstr ""
+
+#: importer/importer.php:212
+msgid "Preview Demo"
+msgstr ""
+
+#: importer/importer.php:227
+msgid "Import attachments"
+msgstr ""
+
+#: importer/importer.php:232
+msgid "Import"
+msgstr ""
+
+#: importer/importer.php:233
+msgid "Prepare data..."
+msgstr ""
+
+#: importer/importer.php:236
+msgid "Continue"
+msgstr ""
+
+#: importer/importer.php:236
+msgid "Cancel"
+msgstr ""
+
+#: importer/importer.php:239
+msgid "Important notes:"
+msgstr ""
+
+#: importer/importer.php:240
+msgid ""
+"Please note that import process will take time needed to download all "
+"attachments from demo web site."
+msgstr ""
+
+#: importer/importer.php:241
+msgid ""
+"If you plan to use shop, please install WooCommerce before you run import."
+msgstr ""
+
+#: importer/importer.php:242
+msgid ""
+"We recommend you to <a href=\"%s\" target=\"_blank\">reset data</a> & clean "
+"wp-content/uploads folder before import to prevent duplicate content."
+msgstr ""
+
+#: importer/importer.php:245
+msgid ""
+"Downloading remote files is prohibited in PHP (allow_url_fopen in php.ini)"
+msgstr ""
+
+#: importer/importer.php:247
+msgid ""
+"If you have problems importing images, then run a test to get information "
+"about the error"
+msgstr ""
+
+#: importer/importer.php:247
+msgid "download test"
+msgstr ""
+
+#: importer/importer.php:266
+msgid "Download test failed"
+msgstr ""
+
+#: importer/importer.php:268
+msgid "Download test completed successfully"
+msgstr ""
+
+#: importer/importer.php:275
+msgid "Available only to registered theme"
+msgstr ""
+
+#: importer/importer.php:276
+msgid "Register theme"
+msgstr ""
+
+#: importer/importer.php:280
+msgid "Export"
+msgstr ""
+
+#: importer/importer.php:283
+msgid "No themes data found."
+msgstr ""
+
+#: importer/importer.php:284
+msgid "Try adding this code to the beginning of the file wp-config.php:"
+msgstr ""
+
+#: importer/importer.php:317 importer/importer.php:1153
+#: importer/importer.php:1160
+msgid "Error: Permission denied"
+msgstr ""
+
+#: importer/importer.php:347
+msgid "Error: Can`t open file: "
+msgstr ""
+
+#: importer/importer.php:397 importer/importer.php:401
+#: importer/importer.php:437
+msgid "Error: Select the data you want to import"
+msgstr ""
+
+#: importer/importer.php:442
+msgid "Error: Selected data is empty"
+msgstr ""
+
+#: importer/importer.php:501
+msgid "Prepared data successfully"
+msgstr ""
+
+#: importer/importer.php:511
+msgid "Imported terms successfully"
+msgstr ""
+
+#: importer/importer.php:520
+msgid "Imported post data successfully"
+msgstr ""
+
+#: importer/importer.php:533
+msgid "Imported options successfully"
+msgstr ""
+
+#: importer/importer.php:542
+msgid "Imported widgets successfully"
+msgstr ""
+
+#: importer/importer.php:567
+msgid ""
+"Cheers! The demo data has been imported successfully! Please reload this "
+"page to finish!"
+msgstr ""
+
+#: importer/importer.php:570
+msgid "Data import completed!"
+msgstr ""
+
+#: importer/importer.php:570
+msgid "Re-save the site permalinks! "
+msgstr ""
+
+#: importer/importer.php:577
+msgid "Error: step not found: "
+msgstr ""
+
+#: importer/importer.php:609 importer/importer.php:619
+msgid ""
+"Error: No access to data folder. Try to add line "
+"\"define('FS_METHOD','direct');\" to the file wp-config.php"
+msgstr ""
+
+#: importer/importer.php:611 importer/importer.php:621
+msgid "Error: Uploads folder must be writable - "
+msgstr ""
+
+#: importer/importer.php:770
+msgid "Error: file not found: "
+msgstr ""
+
+#: importer/importer.php:930
+msgid "Imported Slider Revolution successfully"
+msgstr ""
+
+#: importer/importer.php:934
+msgid "The plugin Slider Revolution is not installed"
+msgstr ""
+
+#: importer/importer.php:937
+msgid "There are no slides in this demo"
+msgstr ""
+
+#: importer/importer.php:1179
+msgid "The demo data has been exported successfully!"
+msgstr ""
+
+#: importer/parsers.php:46 importer/parsers.php:82
+msgid "There was an error when reading this WXR file"
+msgstr ""
+
+#: importer/parsers.php:47
+msgid ""
+"Details are shown above. The importer will now try again with a different "
+"parser..."
+msgstr ""
+
+#: importer/parsers.php:89 importer/parsers.php:95 importer/parsers.php:353
+#: importer/parsers.php:567
+msgid ""
+"This does not appear to be a WXR file, missing/invalid WXR version number"
+msgstr ""
+
+#: importer/wordpress-importer-extend.php:38
+msgid "Error importing the post #"
+msgstr ""
+
+#: importer/wordpress-importer-extend.php:44
+msgid "Importing media files"
+msgstr ""
+
+#: importer/wordpress-importer-extend.php:52
+msgid "Importing "
+msgstr ""
+
+#: importer/wordpress-importer-extend.php:84
+msgid "File content.xml not found"
+msgstr ""
+
+#: importer/wordpress-importer.php:136 importer/wordpress-importer.php:145
+#: importer/wordpress-importer.php:195 importer/wordpress-importer.php:200
+#: importer/wordpress-importer.php:210
+msgid "Sorry, there has been an error."
+msgstr ""
+
+#: importer/wordpress-importer.php:137
+msgid "The file %s does not exist, please try again."
+msgstr ""
+
+#: importer/wordpress-importer.php:180
+msgid "All done."
+msgstr ""
+
+#: importer/wordpress-importer.php:201
+msgid ""
+"The export file could not be found at <code>%s</code>. It is likely that "
+"this was caused by a permissions problem."
+msgstr ""
+
+#: importer/wordpress-importer.php:219
+msgid ""
+"This WXR file (version %s) may not be supported by this version of the "
+"importer. Please consider updating."
+msgstr ""
+
+#: importer/wordpress-importer.php:244
+msgid ""
+"Failed to import author %s. Their posts will be attributed to the current "
+"user."
+msgstr ""
+
+#: importer/wordpress-importer.php:271
+msgid "Assign Authors"
+msgstr ""
+
+#: importer/wordpress-importer.php:272
+msgid ""
+"To make it easier for you to edit and save the imported content, you may "
+"want to reassign the author of the imported item to an existing user of this "
+"site. For example, you may want to import all the entries as <code>admin</"
+"code>s entries."
+msgstr ""
+
+#: importer/wordpress-importer.php:274
+msgid ""
+"If a new user is created by WordPress, a new password will be randomly "
+"generated and the new user&#8217;s role will be set as %s. Manually changing "
+"the new user&#8217;s details will be necessary."
+msgstr ""
+
+#: importer/wordpress-importer.php:284
+msgid "Import Attachments"
+msgstr ""
+
+#: importer/wordpress-importer.php:287
+msgid "Download and import file attachments"
+msgstr ""
+
+#: importer/wordpress-importer.php:292
+msgid "Submit"
+msgstr ""
+
+#: importer/wordpress-importer.php:306
+msgid "Import author:"
+msgstr ""
+
+#: importer/wordpress-importer.php:320
+msgid "or create new user with login name:"
+msgstr ""
+
+#: importer/wordpress-importer.php:323
+msgid "as a new user:"
+msgstr ""
+
+#: importer/wordpress-importer.php:331
+msgid "assign posts to an existing user:"
+msgstr ""
+
+#: importer/wordpress-importer.php:333
+msgid "or assign posts to an existing user:"
+msgstr ""
+
+#: importer/wordpress-importer.php:338
+msgid "- Select -"
+msgstr ""
+
+#: importer/wordpress-importer.php:393
+msgid ""
+"Failed to create new user for %s. Their posts will be attributed to the "
+"current user."
+msgstr ""
+
+#: importer/wordpress-importer.php:452
+msgid "Failed to import category %s"
+msgstr ""
+
+#: importer/wordpress-importer.php:502
+msgid "Failed to import post tag %s"
+msgstr ""
+
+#: importer/wordpress-importer.php:566 importer/wordpress-importer.php:813
+msgid "Failed to import %s %s"
+msgstr ""
+
+#: importer/wordpress-importer.php:662
+msgid "Failed to import &#8220;%s&#8221;: Invalid post type %s"
+msgstr ""
+
+#: importer/wordpress-importer.php:701 importer/wordpress-importer.php:945
+msgid "%s &#8220;%s&#8221; already exists."
+msgstr ""
+
+#: importer/wordpress-importer.php:775
+msgid "Failed to import %s &#8220;%s&#8221;"
+msgstr ""
+
+#: importer/wordpress-importer.php:1003
+msgid "Menu item skipped due to missing menu slug"
+msgstr ""
+
+#: importer/wordpress-importer.php:1012
+msgid "Menu item skipped due to invalid menu slug: %s"
+msgstr ""
+
+#: importer/wordpress-importer.php:1117
+msgid "Invalid file type"
+msgstr ""
+
+#: importer/wordpress-importer.php:1187
+msgid "Remote server did not respond"
+msgstr ""
+
+#: importer/wordpress-importer.php:1194
+msgid "Remote server returned error response %1$d %2$s"
+msgstr ""
+
+#: importer/wordpress-importer.php:1202
+msgid "Remote file is incorrect size"
+msgstr ""
+
+#: importer/wordpress-importer.php:1208
+msgid "Zero size file downloaded"
+msgstr ""
+
+#: importer/wordpress-importer.php:1215
+msgid "Remote file is too large, limit is %s"
+msgstr ""
+
+#: importer/wordpress-importer.php:1324
+msgid "Import WordPress"
+msgstr ""
+
+#: importer/wordpress-importer.php:1331
+msgid ""
+"A new version of this importer is available. Please update to version %s to "
+"ensure compatibility with newer export files."
+msgstr ""
+
+#: importer/wordpress-importer.php:1346
+msgid ""
+"Howdy! Upload your WordPress eXtended RSS (WXR) file and we&#8217;ll import "
+"the posts, pages, comments, custom fields, categories, and tags into this "
+"site."
+msgstr ""
+
+#: importer/wordpress-importer.php:1347
+msgid "Choose a WXR (.xml) file to upload, then click Upload file and import."
+msgstr ""
+
+#: includes/class-ideapark-theme-functionality.php:163
+msgid "Disable sortable"
+msgstr ""
+
+#: includes/class-ideapark-theme-functionality.php:210
+#: includes/class-ideapark-theme-functionality.php:215
+msgid "Cheatin&#8217; huh?"
+msgstr ""
+
+#: includes/lib/class-ideapark-theme-functionality-admin-api.php:172
+msgid "Upload an image"
+msgstr ""
+
+#: includes/lib/class-ideapark-theme-functionality-admin-api.php:172
+msgid "Use image"
+msgstr ""
+
+#: includes/lib/class-ideapark-theme-functionality-admin-api.php:172
+msgid "Upload new image"
+msgstr ""
+
+#: includes/lib/class-ideapark-theme-functionality-admin-api.php:173
+msgid "Remove image"
+msgstr ""
+
+#: includes/lib/class-ideapark-theme-functionality-post-type.php:80
+msgid "Add New"
+msgstr ""
+
+#: includes/lib/class-ideapark-theme-functionality-post-type.php:81
+msgid "Add New %s"
+msgstr ""
+
+#: includes/lib/class-ideapark-theme-functionality-post-type.php:82
+msgid "Edit %s"
+msgstr ""
+
+#: includes/lib/class-ideapark-theme-functionality-post-type.php:83
+msgid "New %s"
+msgstr ""
+
+#: includes/lib/class-ideapark-theme-functionality-post-type.php:84
+msgid "All %s"
+msgstr ""
+
+#: includes/lib/class-ideapark-theme-functionality-post-type.php:85
+msgid "View %s"
+msgstr ""
+
+#: includes/lib/class-ideapark-theme-functionality-post-type.php:86
+msgid "Search %s"
+msgstr ""
+
+#: includes/lib/class-ideapark-theme-functionality-post-type.php:87
+msgid "No %s Found"
+msgstr ""
+
+#: includes/lib/class-ideapark-theme-functionality-post-type.php:88
+msgid "No %s Found In Trash"
+msgstr ""
+
+#: includes/lib/class-ideapark-theme-functionality-post-type.php:89
+msgid "Parent %s"
+msgstr ""
+
+#: includes/lib/class-ideapark-theme-functionality-post-type.php:133
+msgid "%1$s updated. %2$sView %3$s%4$s."
+msgstr ""
+
+#: includes/lib/class-ideapark-theme-functionality-post-type.php:134
+msgid "Custom field updated."
+msgstr ""
+
+#: includes/lib/class-ideapark-theme-functionality-post-type.php:135
+msgid "Custom field deleted."
+msgstr ""
+
+#: includes/lib/class-ideapark-theme-functionality-post-type.php:136
+msgid "%1$s updated."
+msgstr ""
+
+#: includes/lib/class-ideapark-theme-functionality-post-type.php:137
+msgid "%1$s restored to revision from %2$s."
+msgstr ""
+
+#: includes/lib/class-ideapark-theme-functionality-post-type.php:138
+msgid "%1$s published. %2$sView %3$s%4s."
+msgstr ""
+
+#: includes/lib/class-ideapark-theme-functionality-post-type.php:139
+msgid "%1$s saved."
+msgstr ""
+
+#: includes/lib/class-ideapark-theme-functionality-post-type.php:140
+msgid "%1$s submitted. %2$sPreview post%3$s%4$s."
+msgstr ""
+
+#: includes/lib/class-ideapark-theme-functionality-post-type.php:141
+msgid "%1$s scheduled for: %2$s. %3$sPreview %4$s%5$s."
+msgstr ""
+
+#: includes/lib/class-ideapark-theme-functionality-post-type.php:141
+msgid "M j, Y @ G:i"
+msgstr ""
+
+#: includes/lib/class-ideapark-theme-functionality-post-type.php:142
+msgid "%1$s draft updated. %2$sPreview %3$s%4$s."
+msgstr ""
+
+#: includes/lib/class-ideapark-theme-functionality-post-type.php:159
+msgid "%1$s %2$s updated."
+msgid_plural "%1$s %3$s updated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/lib/class-ideapark-theme-functionality-post-type.php:160
+msgid "%1$s %2$s not updated, somebody is editing it."
+msgid_plural "%1$s %3$s not updated, somebody is editing them."
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/lib/class-ideapark-theme-functionality-post-type.php:161
+msgid "%1$s %2$s permanently deleted."
+msgid_plural "%1$s %3$s permanently deleted."
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/lib/class-ideapark-theme-functionality-post-type.php:162
+msgid "%1$s %2$s moved to the Trash."
+msgid_plural "%1$s %3$s moved to the Trash."
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/lib/class-ideapark-theme-functionality-post-type.php:163
+msgid "%1$s %2$s restored from the Trash."
+msgid_plural "%1$s %3$s restored from the Trash."
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/variation-gallery/class-ideapark-variation-gallery.php:68
+#: widgets/advantages-widget.php:118 widgets/advantages-widget.php:142
+msgid "Choose Image"
+msgstr ""
+
+#: includes/variation-gallery/class-ideapark-variation-gallery.php:69
+msgid "Add Images"
+msgstr ""
+
+#: includes/variation-gallery/class-ideapark-variation-gallery.php:70
+msgid "First you need to select the variation image above"
+msgstr ""
+
+#: includes/variation-gallery/class-ideapark-variation-gallery.php:80
+msgid "Variation Image Gallery"
+msgstr ""
+
+#: includes/variation-gallery/class-ideapark-variation-gallery.php:104
+msgid "Add Gallery Images"
+msgstr ""
+
+#: includes/variation-gallery/class-ideapark-variation-gallery.php:181
+msgid "Variation Gallery"
+msgstr ""
+
+#: includes/variation-gallery/class-ideapark-variation-gallery.php:276
+msgid "Not able to attach \"%s\"."
+msgstr ""
+
+#: includes/variation-gallery/class-ideapark-variation-gallery.php:283
+msgid "Unable to use image \"%s\"."
+msgstr ""
+
+#: widgets/advantages-widget.php:8
+msgid "A widget that displays an About widget"
+msgstr ""
+
+#: widgets/advantages-widget.php:12
+msgid "Custom Advantages"
+msgstr ""
+
+#: widgets/advantages-widget.php:103 widgets/latest-posts-widget.php:89
+msgid "Title:"
+msgstr ""
+
+#: widgets/advantages-widget.php:110
+msgid "Header icon:"
+msgstr ""
+
+#: widgets/advantages-widget.php:122 widgets/advantages-widget.php:146
+msgid "Remove"
+msgstr ""
+
+#: widgets/advantages-widget.php:127
+msgid "Description:"
+msgstr ""
+
+#: widgets/advantages-widget.php:134
+msgid "Bottom image:"
+msgstr ""
+
+#: widgets/advantages-widget.php:151
+msgid "URL (Read More):"
+msgstr ""
+
+#: widgets/latest-posts-widget.php:8
+msgid "The recent posts with thumbnails"
+msgstr ""
+
+#: widgets/latest-posts-widget.php:12
+msgid "Custom Latest Posts"
+msgstr ""
+
+#: widgets/latest-posts-widget.php:82
+msgid "Latest Posts"
+msgstr ""
+
+#: widgets/latest-posts-widget.php:93
+msgid "Filter by Category:"
+msgstr ""
+
+#: widgets/latest-posts-widget.php:95
+msgid "All categories"
+msgstr ""
+
+#: widgets/latest-posts-widget.php:104
+msgid "Number of posts to show:"
+msgstr ""
+
+#: widgets/wc-attribute-filter-widget.php:13
+msgid "Display a list of attributes to filter products in your store."
+msgstr ""
+
+#: widgets/wc-attribute-filter-widget.php:15
+msgid "Kidz Filter by Attribute"
+msgstr ""
+
+#: widgets/wc-attribute-filter-widget.php:51
+msgid ""
+"You need to activate and configure the \"Woocommerce\" and \"Variation "
+"Swatches for WooCommerce\" plugins"
+msgstr ""
+
+#: widgets/wc-attribute-filter-widget.php:77
+msgid "Filter by"
+msgstr ""
+
+#: widgets/wc-attribute-filter-widget.php:78
+#: widgets/wc-color-filter-widget.php:56
+#: widgets/wc-product-categories-widget.php:44
+msgid "Title"
+msgstr ""
+
+#: widgets/wc-attribute-filter-widget.php:83
+msgid "Attribute"
+msgstr ""
+
+#: widgets/wc-attribute-filter-widget.php:90
+#: widgets/wc-product-categories-widget.php:58
+msgid "Show product counts"
+msgstr ""
+
+#: widgets/wc-attribute-filter-widget.php:95
+#: widgets/wc-color-filter-widget.php:67
+msgid "Query type"
+msgstr ""
+
+#: widgets/wc-attribute-filter-widget.php:97
+#: widgets/wc-color-filter-widget.php:71
+msgid "AND"
+msgstr ""
+
+#: widgets/wc-attribute-filter-widget.php:98
+#: widgets/wc-color-filter-widget.php:73
+msgid "OR"
+msgstr ""
+
+#: widgets/wc-attribute-filter-widget.php:107
+msgid "Image size"
+msgstr ""
+
+#: widgets/wc-attribute-filter-widget.php:113
+msgid "Item layout"
+msgstr ""
+
+#: widgets/wc-attribute-filter-widget.php:115
+msgid "Block"
+msgstr ""
+
+#: widgets/wc-attribute-filter-widget.php:116
+msgid "Inline"
+msgstr ""
+
+#: widgets/wc-color-filter-widget.php:12
+msgid ""
+"Shows \"color\" attributes in a widget which lets you narrow down the list "
+"of products when viewing products. "
+msgstr ""
+
+#: widgets/wc-color-filter-widget.php:13
+msgid "Kidz Color Filter (old)"
+msgstr ""
+
+#: widgets/wc-color-filter-widget.php:31
+msgid "Color"
+msgstr ""
+
+#: widgets/wc-color-filter-widget.php:77
+msgid "Colors"
+msgstr ""
+
+#: widgets/wc-color-filter-widget.php:97
+msgid "No product attribute saved with the %s slug yet."
+msgstr ""
+
+#: widgets/wc-product-categories-widget.php:37
+msgid "A list of product categories with subcategories collapsing/expanding."
+msgstr ""
+
+#: widgets/wc-product-categories-widget.php:39
+msgid "Kidz Product Categories"
+msgstr ""
+
+#: widgets/wc-product-categories-widget.php:43
+msgid "Product categories"
+msgstr ""
+
+#: widgets/wc-product-categories-widget.php:49
+msgid "Order by"
+msgstr ""
+
+#: widgets/wc-product-categories-widget.php:51
+msgid "Category order"
+msgstr ""
+
+#: widgets/wc-product-categories-widget.php:52
+msgid "Name"
+msgstr ""
+
+#: widgets/wc-product-categories-widget.php:63
+msgid "Hide empty categories"
+msgstr ""
+
+#: widgets/wc-product-categories-widget.php:68
+msgid "Maximum depth"
+msgstr ""
+
+#: widgets/wc-product-categories-widget.php:139
+msgid "No product categories exist."
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Kidz Core"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Core plugin for Kidz theme."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "parkofideas.com"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://parkofideas.com"
+msgstr ""

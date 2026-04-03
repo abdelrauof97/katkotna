@@ -1,0 +1,87 @@
+.wtef-svg-sprite-container {
+	display: none;
+}
+
+.wtef-svg-icons ul {
+	list-style: none;
+	margin:     0 0 10px 0;
+	padding:    0;
+}
+
+.wtef-svg-icons li {
+	margin:         3px 10px 3px 0;
+	padding:        0;
+	display:        inline-block;
+	position:       relative;
+	width:          50px;
+	height:         50px;
+	vertical-align: middle;
+}
+
+.wtef-svg-icons li svg {
+	width:   50px;
+	height:  50px;
+	fill:    #999;
+	opacity: 0.4;
+	pointer-events: none;
+}
+
+.form-wrap .wtef-svg-icons label {
+	padding: 0;
+	margin: 0;
+}
+
+.wtef-svg-icons .clear {
+	color:           red;
+	opacity:         0;
+	visibility:      hidden;
+	text-decoration: none;
+}
+
+.wtef-svg-icons .clear svg {
+	width:          20px;
+	height:         20px;
+	fill:           red;
+	vertical-align: middle;
+	display:        inline-block;
+	padding-bottom: 2px;
+}
+
+.wtef-svg-icons .clear.show {
+	opacity:    1;
+	visibility: visible;
+}
+
+.wtef-svg-icons li input[type=radio] {
+	position:   absolute;
+	z-index:    -1;
+	visibility: hidden;
+	opacity:    0;
+}
+
+.wtef-svg-icons li input[type=radio]:checked + svg {
+	opacity: 1;
+	fill:    #000;
+}
+
+.wtef-svg-icons li svg + i {
+	content:               '';
+	display:               block;
+	position:              absolute;
+	left:                  -1px;
+	right:                 -1px;
+	top:                   -1px;
+	bottom:                -1px;
+	-webkit-border-radius: 3px;
+	-moz-border-radius:    3px;
+	border-radius:         3px;
+}
+
+.wtef-svg-icons li input[type=radio]:checked + svg + i {
+	border:                solid 1px #ccc;
+}
+
+.wtef-svg-icons a:focus {
+	outline:    none;
+	box-shadow: none;
+}
