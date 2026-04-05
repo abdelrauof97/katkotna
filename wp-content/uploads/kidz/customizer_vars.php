@@ -1,5 +1,5 @@
 <?php
-$ideapark_customize_mods_ver = "bd3bdf32d2ae46b33ec9b597b43b81ea";
+$ideapark_customize_mods_ver = "293595b7a06a63ca95549e05e5498f76";
 global $ideapark_customize;
 $ideapark_customize = [
 "0" => [
@@ -2041,9 +2041,9 @@ $ideapark_customize = [
 "type" => "checklist",
 "default" => "description=1|additional_information=1|reviews=1",
 "choices" => [
-"description" => "Description",
-"additional_information" => "Additional information",
-"reviews" => "Reviews",
+"description" => "الوصف",
+"additional_information" => "معلومات إضافية",
+"reviews" => "المراجعات",
 ],
 "sortable" => true,
 "class" => "WP_Customize_Checklist_Control",

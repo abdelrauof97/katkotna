@@ -3186,3 +3186,55 @@ add_filter( 'hidden_meta_boxes', function ( $hidden, $screen, $use_defaults ) {
 
 	return $hidden;
 }, 99, 3 );
+
+
+
+
+
+
+
+
+// تبسيط صفحة الـ Checkout
+add_filter('woocommerce_checkout_fields', function ($fields) {
+
+    // 🟢 الاسم
+    $fields['billing']['billing_first_name']['label'] = 'الاسم';
+    $fields['billing']['billing_first_name']['placeholder'] = 'اكتب اسمك';
+
+    // 🟢 رقم الجوال
+    $fields['billing']['billing_phone']['label'] = 'رقم الجوال';
+    $fields['billing']['billing_phone']['placeholder'] = '05XXXXXXXX';
+
+    // 🟢 المدينة
+    $fields['billing']['billing_city']['label'] = 'المدينة';
+
+    // 🟢 العنوان
+    $fields['billing']['billing_address_1']['label'] = 'العنوان';
+    $fields['billing']['billing_address_1']['placeholder'] = 'اسم الشارع / الحي';
+
+    // ❌ حذف الحقول
+    unset($fields['billing']['billing_last_name']);
+    unset($fields['billing']['billing_company']);
+    unset($fields['billing']['billing_postcode']);
+    unset($fields['billing']['billing_address_2']);
+
+    // ❌ الإيميل اختياري
+    $fields['billing']['billing_email']['required'] = false;
+
+    // 🔢 ترتيب الحقول
+    $fields['billing']['billing_first_name']['priority'] = 10;
+    $fields['billing']['billing_phone']['priority'] = 20;
+    $fields['billing']['billing_city']['priority'] = 30;
+    $fields['billing']['billing_address_1']['priority'] = 40;
+
+    return $fields;
+});
+
+
+// إلغاء validation الزائد
+add_filter('woocommerce_default_address_fields', function ($fields) {
+    $fields['postcode']['required'] = false;
+    return $fields;
+});
+
+add_filter('woocommerce_cart_needs_shipping_address', '__return_false');
