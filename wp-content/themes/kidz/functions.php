@@ -8,6 +8,8 @@ if ( ! defined( 'ABSPATH' ) ) {
 	exit; // Exit if accessed directly
 }
 
+define('WP_ALLOW_MULTISITE', true);
+
 define( 'IDEAPARK_THEME_IS_AJAX', function_exists( 'wp_doing_ajax' ) ? wp_doing_ajax() : ( is_admin() && defined( 'DOING_AJAX' ) && DOING_AJAX ) );
 define( 'IDEAPARK_THEME_IS_XML_HTTP_REQUEST', ( $n = '_SERVER' ) && ( 'xmlhttprequest' === strtolower( isset( $$n['HTTP_X_REQUESTED_WITH'] ) ? $$n['HTTP_X_REQUESTED_WITH'] : '' ) ) );
 define( 'IDEAPARK_THEME_IS_AJAX_HEARTBEAT', IDEAPARK_THEME_IS_AJAX && ! empty( $_POST['action'] ) && ( $_POST['action'] == 'heartbeat' ) );

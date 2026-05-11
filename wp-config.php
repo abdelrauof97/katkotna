@@ -58,6 +58,14 @@ define( 'LOGGED_IN_SALT',   'QDP=Ll`kB}~cY;Jjr16y+Ljx*$w?-^|XleeD^r_$j><9+#cidL%
 define( 'NONCE_SALT',       '`bsr^(U}oSM5Ui.i9VB9NYsF3mF2P?4s`3DS(zZHC7QHG5w%1K?T1&WVKRo(^8~y' );
 
 /**#@-*/
+define('WP_ALLOW_MULTISITE', true);
+define( 'MULTISITE', true );
+define( 'SUBDOMAIN_INSTALL', false );
+define( 'DOMAIN_CURRENT_SITE', 'katkotna.com' );
+define( 'PATH_CURRENT_SITE', '/' );
+define( 'SITE_ID_CURRENT_SITE', 1 );
+define( 'BLOG_ID_CURRENT_SITE', 1 );
+
 
 /**
  * WordPress database table prefix.

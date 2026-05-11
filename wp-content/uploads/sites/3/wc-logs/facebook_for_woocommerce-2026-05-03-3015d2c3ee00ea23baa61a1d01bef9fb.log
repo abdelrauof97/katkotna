@@ -1,0 +1,16 @@
+2026-05-03T00:05:19+00:00 WARNING Product feed scheduling failed: Integration not configured. : {"flow_name":"product_feed","flow_step":"schedule_feed_generation"}
+2026-05-03T00:05:19+00:00 WARNING Language override feed scheduling failed: Integration not configured. : {"flow_name":"language_override_feed","flow_step":"schedule_feed_generation"}
+2026-05-03T00:05:19+00:00 ERROR Error persisting error logs: Cannot create the API instance because the access token is missing. : []
+2026-05-03T00:05:24+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2026-05-03T06:10:54+00:00 WARNING Product feed scheduling failed: Integration not configured. : {"flow_name":"product_feed","flow_step":"schedule_feed_generation"}
+2026-05-03T06:10:54+00:00 WARNING Language override feed scheduling failed: Integration not configured. : {"flow_name":"language_override_feed","flow_step":"schedule_feed_generation"}
+2026-05-03T06:10:54+00:00 ERROR Error persisting error logs: Cannot create the API instance because the access token is missing. : []
+2026-05-03T06:53:05+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2026-05-03T10:12:59+00:00 WARNING Product feed scheduling failed: Integration not configured. : {"flow_name":"product_feed","flow_step":"schedule_feed_generation"}
+2026-05-03T10:12:59+00:00 WARNING Language override feed scheduling failed: Integration not configured. : {"flow_name":"language_override_feed","flow_step":"schedule_feed_generation"}
+2026-05-03T10:12:59+00:00 ERROR Error persisting error logs: Cannot create the API instance because the access token is missing. : []
+2026-05-03T19:28:08+00:00 WARNING Product feed scheduling failed: Integration not configured. : {"flow_name":"product_feed","flow_step":"schedule_feed_generation"}
+2026-05-03T19:28:08+00:00 WARNING Language override feed scheduling failed: Integration not configured. : {"flow_name":"language_override_feed","flow_step":"schedule_feed_generation"}
+2026-05-03T19:28:08+00:00 ERROR Error persisting error logs: Cannot create the API instance because the access token is missing. : []
+2026-05-03T22:13:15+00:00 WARNING Product feed scheduling failed: Integration not configured. : {"flow_name":"product_feed","flow_step":"schedule_feed_generation"}
+2026-05-03T22:13:15+00:00 WARNING Language override feed scheduling failed: Integration not configured. : {"flow_name":"language_override_feed","flow_step":"schedule_feed_generation"}

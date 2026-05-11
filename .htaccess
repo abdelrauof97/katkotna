@@ -1,16 +1,14 @@
-
-# BEGIN WordPress
-# التعليمات (الأسطر) بين "BEGIN WordPress" و "END WordPress"
-# تم إنشاؤها ديناميكيًا، ويجب تعديلها فقط من خلال مرشحات ووردبريس (WordPress Filters).
-# أي تغييرات على التعليمات بين هذه العلامات سيتم الكتابة فوقها.
-<IfModule mod_rewrite.c>
 RewriteEngine On
 RewriteRule .* - [E=HTTP_AUTHORIZATION:%{HTTP:Authorization}]
 RewriteBase /
 RewriteRule ^index\.php$ - [L]
-RewriteCond %{REQUEST_FILENAME} !-f
-RewriteCond %{REQUEST_FILENAME} !-d
-RewriteRule . /index.php [L]
-</IfModule>
 
-# END WordPress
+# add a trailing slash to /wp-admin
+RewriteRule ^wp-admin$ wp-admin/ [R=301,L]
+
+RewriteCond %{REQUEST_FILENAME} -f [OR]
+RewriteCond %{REQUEST_FILENAME} -d
+RewriteRule ^ - [L]
+RewriteRule ^(wp-(content|admin|includes).*) $1 [L]
+RewriteRule ^(.*\.php)$ $1 [L]
+RewriteRule . index.php [L]
